@@ -1,0 +1,6 @@
+{
+  "name": "Director de Alabanza PWA",
+  "description": "Aplicación PWA offline para directores de alabanza con Himnario Lluvias de Bendición, Manantial de Inspiración, Corario con tonalidades, transposición de acordes, metrónomo y listas de culto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

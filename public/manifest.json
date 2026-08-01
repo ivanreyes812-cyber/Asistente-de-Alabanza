@@ -1,0 +1,22 @@
+{
+  "short_name": "Director Alabanza",
+  "name": "Director de Alabanza - Himnario & Corario PWA",
+  "description": "App PWA para directores de alabanza: Lluvias de Bendición, Manantial de Inspiración, Corario con tonalidades y herramientas.",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=192&h=192&fit=crop&crop=faces&auto=format&q=80",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=512&h=512&fit=crop&crop=faces&auto=format&q=80",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f172a",
+  "theme_color": "#1e1b4b",
+  "display": "standalone",
+  "orientation": "portrait"
+}
