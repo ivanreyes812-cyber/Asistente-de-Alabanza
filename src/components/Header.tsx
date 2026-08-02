@@ -89,7 +89,7 @@ export const Header: React.FC<HeaderProps> = ({
             </div>
             <div>
               <div className="flex items-center gap-1.5">
-                <span className="font-bold text-lg tracking-tight text-slate-100 font-serif">Alabanza PWA</span>
+                <span className="font-bold text-lg tracking-tight text-slate-100 font-serif">Asistente de Alabanza</span>
                 <span className="text-[10px] uppercase font-bold tracking-wider px-1.5 py-0.5 rounded bg-amber-500/20 text-amber-300 border border-amber-500/30">
                   By GandI
                 </span>

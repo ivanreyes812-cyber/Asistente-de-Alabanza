@@ -94,7 +94,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 10,
     "title": "¡OH, QUÉ AMIGO!",
-    "category": "Comunión y Oración",
+    "category": "Oración y Comunión",
     "originalKey": "F",
     "bpm": 85,
     "lyrics": "1 ¡Oh, qué Amigo nos es Cristo!\nEl llevó nuestro dolor,\ny nos manda que llevemos\nTodo a Dios en oración.\n¿Vive el hombre desprovisto\nDe paz, gozo y santo amor?\nEsto es porque no llevamos\nTodo a Dios en oración.\n\n2 ¿Vives débil y cargado\nDe cuidados y temor?\nA Jesús, refugio eterno\nDile todo en oración.\n¿Te desprecian tus amigos?\nCuéntaselo en oración;\nEn sus brazos de amor tierno\nPaz tendrá tu corazón.\n\n3 Jesucristo es nuestro Amigo,\nDe esto pruebas Él nos dio\nAl sufrir el cruel castigo\nQue el culpable mereció.\ny su pueblo redimido\nHallará seguridad\nFiando en este Amigo eterno\ny esperando en su bondad.",
@@ -124,7 +124,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 13,
     "title": "¡OH, CRISTO MÍO!",
-    "category": "Comunión y Oración",
+    "category": "Oración y Comunión",
     "originalKey": "Eb",
     "bpm": 75,
     "lyrics": "1 ¡Oh! Cristo mío, eres Tú mi amigo fiel;\nSeguro amparo sólo en ti tendré,\nEn mis aflicciones, buen Jesús, iré a ti,\ny consuelo y dicha me darás ¡oh! sí.\n\nCORO\nCristo, ven más cerca;\nPaz perfecta en mi alma pon;\nCerca, sí, más cerca,\nDe mi corazón.\n\n2 Cuando en la noche, vea yo estrellas mil,\nTu voz hermosa pueda mi alma oír.\nHaz que yo medite en tu tierno y dulce amor,\ny que yo te alabe, lleno de fervor.\n\n3 Cuando esta vida tenga yo que abandonar,\nCorona hermosa Tú me ceñirás;\ny con dulce canto tu bondad alabaré,\ny en mansión de gloria siempre moraré.",
@@ -164,7 +164,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 17,
     "title": "SANTIDAD A JEHOVÁ",
-    "category": "Santidad y Vida Cristiana",
+    "category": "Consagración",
     "originalKey": "Eb",
     "bpm": 85,
     "lyrics": "1 Llamado a santidad, pueblo de Dios,\nQue con su sangre Jesús os compró,\nQue de entre el mundo de mal os sacó,\nDe esclavitud de pecado os libró.\n\nCORO\nSantidad hoy a Jehová, nuestro canto y loor,\nSantidad hoy a Jehová, mientras vamos a Sion,\nSí, cantad, cantad canción,\nSantidad hoy a Jehová sea por siempre.\n\n2 Creados a santidad, hijos de luz,\nCon Jesucristo debéis siempre andar,\nCon albo manto, sin mancha o pecar,\nLlena vuestra alma de Espíritu y luz.\n\n3 Llamada a santidad, esposa fiel,\nEspera siempre al Esposo y Señor,\nAl cielo eleva tu rostro y amor\nHasta que en gloria aparezca Emmanuel.",
@@ -194,7 +194,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 20,
     "title": "PARA SIEMPRE SANTIDAD",
-    "category": "Santidad y Vida Cristiana",
+    "category": "Consagración",
     "originalKey": "Bb",
     "bpm": 80,
     "lyrics": "1 Mucho más es que un ideal,\nLa preciosa santidad,\nPalpitante bendición actual,\nAxiomática verdad.\n\nCORO\n¿Quién a Dios su ser le da?\n¿Quién hoy se consagrará?\nCon gran eficacia, obra la gracia,\nPara siempre santidad.\n\n2 Cristo quiere que seamos luz,\nAl mundo de obscuridad,\nDisipemos el negro capuz,\nViviendo la santidad.\n\n3 La experiencia de la santidad,\nEs templanza, paz, amor,\nFe, paciencia, gratitud, bondad,\nTolerancia y valor.\n\n4 Es el Santo Espíritu, virtud,\nY la santidad cabal,\nEmancipa de la esclavitud,\nDel pecado original.",
@@ -294,7 +294,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 30,
     "title": "¡TE QUIERO, MI SEÑOR!",
-    "category": "Comunión y Oración",
+    "category": "Oración y Comunión",
     "originalKey": "Ab",
     "bpm": 75,
     "lyrics": "1 ¡Te quiero, mi Señor!\nHabita en mí,\ny vencedor seré,\nPor fe en ti.\n\nCORO\nTe quiero, sí, te quiero,\nSiempre te anhelo;\nBendíceme ahora,\nAcudo a ti.\n\n2 ¡Te quiero, oh, Jesús,\nMi Salvador!\nOh, hazme en verdad\nTu servidor.\n\n3 Tu voluntad, Señor,\nEnséñame;\ny de tu gran amor,\n¡Oh! cólmame.\n\n4 Oh, mi gran Bienhechor,\nEn tentación;\nConcédeme valor\ny protección.",
@@ -354,7 +354,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 36,
     "title": "HAY PUREZA Y LIBERTAD",
-    "category": "Santidad y Vida Cristiana",
+    "category": "Consagración",
     "originalKey": "Bb",
     "bpm": 85,
     "lyrics": "1 Hay pureza, libertad y en Jesús seguridad\nPara el consagrado corazón;\nHay vigor y dulce paz y victoria más y más\nFrutos de la santificación.\n\nCORO\nHay poder, hay poder de salvar y de santificar;\nTengo paz y libertad\nDesde que ando en santidad;\nHay poder de limpiar y de guardar.\n\n2 Aunque tu alma tropezó con el mal que heredó.\nHay remedio eficaz del mal;\nTu maldad se quitará, lo carnal se deshará\nPor aquel poder pentecostal.\n\n3 Gracia tiene en plenitud, gozo, gloria y virtud\nPara ti si quieres recibir;\nCristo da el perfecto amor que echa fuera tu temor\ny en la santidad podrás vivir.",
@@ -374,7 +374,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 38,
     "title": "DIOS ME SANTIFICÓ",
-    "category": "Santidad y Vida Cristiana",
+    "category": "Consagración",
     "originalKey": "G",
     "bpm": 80,
     "lyrics": "1 Andando yo errante sin Dios y sin perdón,\nJesús amante y tierno me tuvo compasión,\nEn su bondad me invita, con gozo acepté\nDe gracia infinita, mi alma llena fue.\n\nCORO\n¡Me santificó! ¡Con su gran poder!\nEn aquel instante cambio yo sentí;\nSu gracia me llenó y transformó mi ser,\nEl amor triunfante vino sobre mí.\n\n2 En abrumante prueba, sentía desmayar,\nPedí potencia nueva para poder triunfar,\nBuen Dios omnipotente, mi alma tiene sed,\nDe tu preciosa fuente; de gracia y merced.\n\n3 Pedí su gran promesa, \"bautízame Señor;\"\nQuemando la impureza me dio perfecto amor.\nCon fuego de los cielos purificó mi ser,\nConforme a mi ruego, me dio su gran poder.\n\n4 ¡Ya vino! Sí, ¡ya vino! mi alma cantará,\nEspíritu divino, que me confortará,\nDe herencia de pecado, Él limpiará mi ser,\nMi vida ha cambiado: ¡Glorioso amanecer!",
@@ -444,7 +444,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 45,
     "title": "BAUTÍCESE CADA UNO",
-    "category": "Especiales / Ocasiones",
+    "category": "Especiales y Ocasiones",
     "originalKey": "D",
     "bpm": 80,
     "lyrics": "1 En las aguas de la muerte\nSumergido fue Jesús,\nMas su amor no fue apagado\nPor sus penas en la cruz.\nLevantóse de la tumba,\nSus cadenas quebrantó,\ny triunfante y victorioso,\nA los cielos ascendió.\n\n2 En las aguas del bautismo\nHoy confieso yo mi fe:\nJesucristo me ha salvado\ny en su amor me gozaré,\nEn las aguas humillantes\nA Jesús siguiendo estoy,\nDesde ahora para el mundo\ny el pecado muerto soy.\n\n3 Ya que estoy crucificado,\n¿Cómo más podré pecar?\nYa que soy resucitado,\nSanta vida he de llevar.\nSon las aguas del bautismo,\nMi señal de salvación,\nY yo quiero consagrarme\nAl que obró mi redención.",
@@ -464,7 +464,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 47,
     "title": "CERCA, MÁS CERCA",
-    "category": "Comunión y Oración",
+    "category": "Oración y Comunión",
     "originalKey": "G",
     "bpm": 75,
     "lyrics": "1 Cerca, más cerca, ¡oh Dios, de ti!\nCerca yo quiero mi vida llevar;\nCerca, más cerca, ¡oh Dios, de ti!\nCerca a tu gracia que puede salvar,\nCerca a tu gracia que puede salvar.\n\n2 Cerca, más cerca, cual pobre soy,\nNada Señor, yo te puedo ofrecer;\nSólo mi ser contrito te doy,\nPueda contigo la paz obtener,\nPueda contigo la paz obtener.\n\n3 Cerca, más cerca, Señor de ti,\nQuiero ser tuyo dejando el pecar;\nGoces y pompas vanas aquí,\nTodo Señor pronto quiero dejar,\nTodo Señor pronto quiero dejar.\n\n4 Cerca, más cerca, mientras el ser,\nAliente vida y busque tu paz;\ny cuando al cielo pueda ascender,\nYa para siempre conmigo estarás,\nYa para siempre conmigo estarás.",
@@ -484,7 +484,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 49,
     "title": "SEGÚN TU DICHO AL EXPIRAR",
-    "category": "Comunión y Oración",
+    "category": "Oración y Comunión",
     "originalKey": "E",
     "bpm": 75,
     "lyrics": "1 Según tu dicho al expirar\nQue en gratitud oí,\nMe acordaré mi Redentor,\nMe acordaré de ti.\n\n2 Tu cuerpo herido a mi alma es\nDivino pan aquí,\nY con la copa de tu amor,\nMe acordaré de ti.\n\n3 Me acordaré de tu dolor,\nY de tu amor por mí,\nY mientras viva ¡Oh, mi Señor,\nMe acordaré de ti!\n\n4 Y cuando desfallezca al fin\nY llegue a sucumbir\nJesús, que en gloria eterna estás,\nAcuérdate de mí.",
@@ -494,7 +494,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 50,
     "title": "LA SEGUNDA BENDICIÓN",
-    "category": "Santidad y Vida Cristiana",
+    "category": "Consagración",
     "originalKey": "G",
     "bpm": 85,
     "lyrics": "1 Para los regenerados hay segunda bendición;\nPueden ser santificados y tener un corazón\nYa santificado enteramente, no habrá condenación:\nEsta bendición se llama santidad.\n\nCORO\nHoy buscad santidad,\nDios ofrece este don, perfecto amor;\nSuplicad santidad,\nSin la cual jamás veréis al Salvador.\n\n2 Da en sacrificio vivo tu alma y cuerpo al Señor;\nPonte en el santo altar, y el fuego purificador\nQuemará raíz de mal, te alumbrará con su fulgor,\nY tendrás la bendición de santidad.\n\n3 Pues la voluntad de Dios es vuestra santificación,\nDe justicia, paz y gozo llenará tu corazón,\nEl os guardará por siempre sin temor o reprensión\nEn la hermosura de la santidad.",
@@ -534,7 +534,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 54,
     "title": "A LA TIERRA PROMETIDA",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "G",
     "bpm": 90,
     "lyrics": "1 A la tierra prometida\nFelizmente vine yo\nPor caminos de victoria\nDonde el Vencedor me guió;\nVoy venciendo a los gigantes\nPor los montes y en el plan,\nPoseyendo sus terrenos;\nVoy triunfando de Satán.\n\nCORO\nYo morando estoy en Beulah,\nTierra real de libertad;\nCon la cruz por mi bandera\nAndo en plena santidad.\n\n2 Veo de lejos el desierto\nDonde el hambre y sed sufrí,\nTropezando muchas veces,\ny en las zarzas me perdí;\nMas clamando a Cristo el fuerte,\nÉl fijó mi corazón,\ny mis pies puso en la peña\nEn camino al bello Sion.\n\n3 Esta tierra de hermosura\nFluye siempre leche y miel,\nRicos frutos esparciendo\nMil perfumes cual vergel;\nFuentes de agua viva abundan,\nSuaves brisas gozo dan,\nPrendas del hogar eterno\nDo los santos gozarán.\n\n4 Paz y gozo y esperanza,\nFrutos del perfecto amor,\nEn mi corazón limpiado\nEn la guerra dan vigor:\nCon Jesús voy conquistando,\nVoy triunfante por la fe,\nAsombrado de la gloria\ny potencia de mi Rey.",
@@ -584,7 +584,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 59,
     "title": "AMA A TUS PRÓJIMOS",
-    "category": "Misiones y Servicio a Dios",
+    "category": "Misiones y Servicio",
     "originalKey": "Eb",
     "bpm": 80,
     "lyrics": "1 Ama a tus prójimos, piensa en sus almas,\nDiles la historia del tierno Señor;\nCuida del huérfano, hazte su amigo;\nCristo le es Padre y fiel Salvador.\n\nCORO\nSalva al incrédulo, mira el peligro;\nDios le perdonará, Dios le amará.\n\n2 Aunque recházanle, tiene paciencia\nHasta que puédales dar la salud;\nVenle los ángeles cerca del trono;\nVigilaráles con solicitud.\n\n3 Dentro del corazón, triste, abatido,\nMora el Espíritu de salvación,\nDándole el ánimo para salvarse,\nLlévala al Maestro con abnegación.\n\n4 Salva a tus prójimos, Cristo te ayuda,\nFuerza de Dios será tuya en verdad;\nÉl te bendecirá en tus esfuerzos,\nCon Él disfrutarás la eternidad.",
@@ -644,7 +644,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 65,
     "title": "DULCE COMUNIÓN",
-    "category": "Comunión y Oración",
+    "category": "Oración y Comunión",
     "originalKey": "G",
     "bpm": 80,
     "lyrics": "1 Dulce comunión la que gozo ya\nEn los brazos de mi Salvador;\n¡Qué gran bendición en su paz me da!\n¡Oh! yo siento en mí su tierno amor.\n\nCORO\nLibre, salvo,\nDe cuidados y temor;\nLibre, salvo,\nEn los brazos de mi Salvador.\n\n2 ¡Cuán dulce es vivir, cuán dulce es gozar\nEn los brazos de mi Salvador!\nAllí quiero ir y con Él morar,\nSiendo objeto de su tierno amor.\n\n3 No hay qué temer, ni qué desconfiar,\nEn los brazos de mi Salvador;\nPor su gran poder Él me guardará\nDe los lazos del engañador.",
@@ -784,7 +784,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 79,
     "title": "RODEAREMOS EL MUNDO",
-    "category": "Misiones y Servicio a Dios",
+    "category": "Misiones y Servicio",
     "originalKey": "C",
     "bpm": 85,
     "lyrics": "1 Mirad la pobre humanidad\nMorando en densa obscuridad,\nBuscando luz y libertad,\nDivino amor y voluntad.\n\nCORO\nRodearemos a todo el mundo,\nCon santidad a nuestro Dios,\nCon luz refulgente y hermosa\nLa luz verdadera de Dios.\n\n2 Oíd, hermanos, el clamor,\nDe las ovejas sin pastor,\nPerdidas van en aflicción,\nSin esperanza o salvación.\n\n3 Las buenas nuevas predicad,\nA todo el mundo proclamad,\nQue Cristo puede ya salvar,\ny los pecados perdonar.\n\n4 Hambrientos hay al derredor\nCon ansiedad de conocer\nCómo Jesús brinda poder\nA los que buscan salvación.",
@@ -864,7 +864,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 87,
     "title": "NO ME IMPORTAN RIQUEZAS",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "C",
     "bpm": 80,
     "lyrics": "1 No me importan riquezas de precioso metal,\nSi más rico tesoro puedo ir a gozar.\nEn las páginas bellas de tu libro eternal,\nDime, ¡oh Cristo bendito si mi nombre allí está!\n\nCORO\n¡Oh, el libro precioso\nDe tu reino eternal!\nSoy feliz para siempre\nSi mi nombre allí está.\n\n2 Muchos son mis pecados cual la arena del mar,\nMas tu sangre preciosa me los puede limpiar;\nPorque Tú has prometido ¡oh bendito Emanuel!\nSi tus culpas son negras, blancas yo las haré.\n\n3 ¡Oh ciudad deliciosa con mansiones de luz!\nDo triunfante el cristiano goza ya con Jesús;\nDo no entra el pecado, ni tristeza, ni mal;\nAllí tengo mi herencia, si mi nombre allí está.",
@@ -884,7 +884,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 89,
     "title": "EN BUSCA DE OBREROS",
-    "category": "Misiones y Servicio a Dios",
+    "category": "Misiones y Servicio",
     "originalKey": "G",
     "bpm": 85,
     "lyrics": "1 Cristo está buscando obreros hoy\nQue quieran ir con Él;\n¿Quién dirá: \"Señor contigo voy,\nYo quiero serte fiel\"?\n\nCORO\n¡Oh! Señor, es mucha la labor,\ny obreros faltan ya;\nDanos luz, ardiente fe y valor,\ny obreros siempre habrá.\n\n2 Cristo quiere mensajeros hoy,\nQue anuncien su verdad;\n¿Quién dirá: \"Señor yo listo estoy,\nHaré tu voluntad\"?\n\n3 Hay lugar si quieres trabajar,\nDe Cristo en la labor;\nPuedes de su gloria al mundo hablar,\nDe su bondad y amor.",
@@ -894,7 +894,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 90,
     "title": "CRISTO BUSCA LIMPIOS CORAZONES",
-    "category": "Misiones y Servicio a Dios",
+    "category": "Misiones y Servicio",
     "originalKey": "Eb",
     "bpm": 85,
     "lyrics": "1 Cristo busca limpios corazones\nQue le sirvan siempre con fidelidad;\nQue a los pecadores insten fervorosos\nQue se vuelvan del pecado a la verdad.\n\nCORO\nId a trabajar allá en los campos del Señor,\nQue para la siega se presentan blancos hoy,\n¡Oh, fieles siervos de Dios!\nA quien debéis todo honor,\nOíd su voz, salid a trabajar.\n\n2 Labios puros Cristo necesita,\nQue con gozo anuncien plena salvación;\nLenguas consagradas sólo a su servicio,\nQue proclamen al cautivo redención.\n\n3 Cristo busca manos bien dispuestas\nPara trabajar con buena voluntad;\nSiembras ya maduras piden vuestra ayuda,\nLas doradas mieses pronto cosechad.\n\n4 Vidas santas Cristo necesita,\nQue a los pecadores muestren su poder;\nLibres de ansiedades, en Jesús confiadas\ny que pueda de ellas siempre disponer.",
@@ -914,7 +914,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 92,
     "title": "MÁS BLANCO QUE LA NIEVE",
-    "category": "Santidad y Vida Cristiana",
+    "category": "Consagración",
     "originalKey": "A",
     "bpm": 80,
     "lyrics": "1 Yo quiero ser limpio, oh mi buen Jesús,\nDeseo por siempre andar en tu luz;\nTan sólo en tu sangre limpieza tendré,\nLavado y más blanco que nieve seré.\n\nCORO\nMás blanco, sí, que la nieve seré;\nLavado en la sangre y limpio por fe.\n\n2 Que en mi alma no puede lo impuro quedar,\nTu sangre mis manchas las puede quitar;\nPecados e ídolos desecharé\nLavado y más blanco que nieve seré.\n\n3 Tú, Cristo me ayudas a sacrificar,\nHumilde llevando mi todo a tu altar,\nTe entrego mi vida y así por la fe\nLavado y más blanco que nieve seré.\n\n4 Por esta pureza doy gracias a ti\nQue santificado por tu gracia fui;\nTu sangre limpiándome vi por la fe\nLavado y más blanco que nieve quedé.\n\nCORO FINAL\nMás blanco, sí, que la nieve quedé;\nLavado en tu sangre, soy limpio por fe.",
@@ -974,7 +974,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 98,
     "title": "JUBILOSAS NUESTRAS VOCES",
-    "category": "Especiales / Ocasiones",
+    "category": "Especiales y Ocasiones",
     "originalKey": "G",
     "bpm": 85,
     "lyrics": "1 Jubilosas nuestras voces\nElevamos con fervor,\nPara dar la bienvenida\nA los siervos del Señor.\nBienvenidos los campeones\nDe la fe y de la verdad,\nA quien nuestros corazones\nHoy les brindan su amistad.\n\nCORO\nBienvenidos, bienvenidos,\nAdalides de Jehová;\nParabienes no fingidos,\nParabienes no fingidos,\nParabienes no fingidos,\nLa congregación os da.\n\n2 Bienvenidos los soldados\nDe las huestes de Jesús,\nLos que luchan denodados\nPor el triunfo de la luz.\nUno solo es nuestro anhelo,\nTrabajamos con tesón.\nPara hacer que el Rey del cielo\nReine en cada corazón.",
@@ -1014,7 +1014,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 102,
     "title": "SEMBRARÉ",
-    "category": "Misiones y Servicio a Dios",
+    "category": "Misiones y Servicio",
     "originalKey": "C",
     "bpm": 85,
     "lyrics": "1 Sembraré la simiente preciosa,\nDel glorioso evangelio de amor,\nSembraré, sembraré, mientras viva,\nDejaré el resultado al Señor.\n\nCORO\nSembraré, sembraré,\nMientras viva, simiente de amor.\nSegaré, segaré,\nAl hallarme en la casa de Dios.\n\n2 Sembraré en corazones sensibles\nLa doctrina del Dios de perdón.\nSembraré, sembraré, mientras viva,\nDejaré el resultado al Señor.\n\n3 Sembraré en corazones de mármol\nLa bendita Palabra de Dios.\nSembraré, sembraré, mientras viva,\nDejaré el resultado al Señor.",
@@ -1094,7 +1094,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 110,
     "title": "ID A LA MIES",
-    "category": "Misiones y Servicio a Dios",
+    "category": "Misiones y Servicio",
     "originalKey": "D",
     "bpm": 90,
     "lyrics": "1 ¡A los campos a segar, vedlos blancos, blancos ya!\n¡Idos allá! ¡Idos allá!\nTodo el día trabajad, sólo de Jesús hablad,\n¡Id a la mies! ¡Id, predicad!\n\nCORO\n¡Id a la mies! ¡Id a la mies!\n¡Id a la mies! ¡Id a la mies!\nEl amor del Salvador os compele a la labor,\nSin demorar, id con valor.\n\n2 En el valle, monte o mar el Señor os manda ya,\nA cosechar, ¡idos allá!\nLa cosecha almas son que Jesús quiere salvar,\nIdos allá, a cosechar.\n\n3 Cantaremos con fervor el amor del Salvador,\nÉl nos mandó a su labor,\nPronto llegará el fin, sonará el gran clarín,\nÉl nos dará, vida sin fin.",
@@ -1134,7 +1134,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 114,
     "title": "¡TRABAJAD! ¡TRABAJAD!",
-    "category": "Misiones y Servicio a Dios",
+    "category": "Misiones y Servicio",
     "originalKey": "C",
     "bpm": 85,
     "lyrics": "1 ¡Trabajad! ¡Trabajad! somos siervos de Dios.\n¡Seguiremos la senda que el Maestro trazó!\nRenovando las fuerzas con bienes que da,\nEl deber que nos toca cumplido será.\n\nCORO\n¡Trabajad! ¡Trabajad!\n¡Esperad, y velad!\n¡Confiad! ¡Siempre orad!\nQue el Maestro pronto volverá.\n\n2 ¡Trabajad! ¡Trabajad! hay que dar de comer,\nAl que Pan de la vida quisiere tener;\nHay enfermos que irán a los pies del Señor,\nAl saber que de balde los sana su amor.\n\n3 ¡Trabajad! ¡Trabajad! Fortaleza pedid,\nEl reinado del mal con valor combatid;\nConducid los cautivos al Libertador,\ny decid que de balde redime su amor.",
@@ -1144,7 +1144,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 115,
     "title": "LA MERCED DE NUESTRO PADRE",
-    "category": "Misiones y Servicio a Dios",
+    "category": "Misiones y Servicio",
     "originalKey": "G",
     "bpm": 85,
     "lyrics": "1 La merced de nuestro Padre,\nEs un faro en su brillar,\nÉl nos cuida y nos protege\nCon las luces de alta mar.\n\nCORO\n¡Mantened el faro ardiendo!\n¡Arrojad su luz al mar!\nQue si hay nautas pereciendo\nLos podréis así salvar.\n\n2 Reina noche de pecado,\nRuge airada negra mar,\nAlmas hay que van buscando\nEsas luces de alta mar.\n\n3 Ten tu lámpara encendida\nQue en la tempestad habrá,\nAlgún náufrago perdido\ny tu luz le salvará.",
@@ -1164,7 +1164,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 117,
     "title": "¡OH, CUÁN DULCE!",
-    "category": "Comunión y Oración",
+    "category": "Oración y Comunión",
     "originalKey": "D",
     "bpm": 80,
     "lyrics": "1 ¡Oh, cuán dulce es fiar en Cristo,\ny entregarse todo a Él;\nEsperar en sus promesas,\ny en sus sendas serle fiel!\n\nCORO\nJesucristo, Jesucristo,\nYa tu amor probaste en mí;\nJesucristo, Jesucristo,\nSiempre quiero fiar en ti.\n\n2 Es muy dulce fiar en Cristo\nY cumplir su voluntad,\nNo dudando su palabra,\nQue es la luz y la verdad.\n\n3 Siempre es grato fiar en Cristo\nCuando busca el corazón,\nLos tesoros celestiales\nDe la paz y del perdón.\n\n4 Siempre en ti confiar yo quiero\nMi precioso Salvador;\nEn la vida y en la muerte\nProtección me dé tu amor.",
@@ -1174,7 +1174,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 118,
     "title": "DA LA LUZ",
-    "category": "Misiones y Servicio a Dios",
+    "category": "Misiones y Servicio",
     "originalKey": "F",
     "bpm": 85,
     "lyrics": "1 Un llamado llega desde el turbio mar,\nDa la luz, da la luz;\nAlmas haya quienes hay que rescatar,\nDa la luz, da la luz.\n\nCORO\nDa la luz del Evangelio fiel\nHaz que brille por doquier;\nQue la senda alumbre del infiel\nCon sus rayos de poder.\n\n2 Si este llamamiento quieres contestar,\nDa la luz, da la luz;\nUna buena ofrenda debes tú de dar;\nDa la luz, da la luz.\n\n3 Que la gracia abunde: pide en oración,\nDa la luz, da la luz;\nY que Cristo reine en cada corazón,\nDa la luz, da la luz.\n\n4 Nunca nos cansemos de esta gran labor,\nDa la luz, da la luz;\nLlevaremos joyas para el Salvador\nDa la luz, da la luz.",
@@ -1184,7 +1184,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 119,
     "title": "EN LOS NEGOCIOS DEL REY",
-    "category": "Misiones y Servicio a Dios",
+    "category": "Misiones y Servicio",
     "originalKey": "C",
     "bpm": 85,
     "lyrics": "1 Soy peregrino aquí, mi hogar lejano está\nEn la mansión de luz, eterna paz y amor;\nEmbajador yo soy del Reino celestial\nEn los negocios de mi Rey.\n\nCORO\nEste mensaje fiel oíd,\nQue dijo ya celeste voz;\n\"Reconciliaos ya,\" dice el Señor y Rey,\n¡Reconciliaos hoy con Dios!\n\n2 Que del pecado vil arrepentidos ya,\nHan de reinar con Él los que obedientes son,\nEs el mensaje fiel que debo proclamar,\nEn los negocios de mi Rey.\n\n3 Mi hogar más bello es que el valle de Sarón,\nEterno gozo y paz reinan por siempre en él\ny allí Jesús dará eterna habitación,\nEs el mensaje de mi Rey.",
@@ -1194,7 +1194,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 120,
     "title": "DE HELADAS CORDILLERAS",
-    "category": "Misiones y Servicio a Dios",
+    "category": "Misiones y Servicio",
     "originalKey": "F",
     "bpm": 80,
     "lyrics": "1 De heladas cordilleras,\nDe playas de coral.\nDe etiópicas riberas\nDel mar meridional,\nNos llaman afligidas\nA darles libertad,\nNaciones sumergidas\nEn densa obscuridad.\n\n2 Nosotros, alumbrados\nDe celestial saber,\n¿A tantos desgraciados\nVeremos perecer?\nA las naciones demos\nDe Dios la salvación;\nEl Nombre proclamemos\nQue obró la redención.\n\n3 Llevada por los vientos\nLa historia de la cruz,\nDespierte sentimientos\nDe amor hacia Jesús:\nPrepare corazones,\nEnseñe su verdad\nEn todas las naciones\nSegún su voluntad.",
@@ -1234,7 +1234,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 124,
     "title": "EL AMOR DE DIOS",
-    "category": "Amor de Dios",
+    "category": "Especiales y Ocasiones",
     "originalKey": "D",
     "bpm": 80,
     "lyrics": "1 ¡Oh, amor de Dios! tu inmensidad\nEl hombre no podrá contar,\nNi concebir la gran verdad\nQue Dios al mundo pudo amar.\nAl primer par, de su hogar\nEchados, compadeció;\ny les vistió, les perdonó,\ny un Redentor prometió.\n\nCORO\n¡Oh, amor de Dios! Brotando está,\nInmensurable, eternal;\nPor las edades durará,\nInagotable raudal.\n\n2 Si fuera tinta todo el mar,\ny todo el cielo un gran papel,\ny cada hombre un escritor,\ny cada hoja un pincel,\nNunca podrían describir\nEl gran amor de Dios\nQue al hombre pudo redimir\nDe su pecado atroz.\n\n3 y cuando el tiempo pasará,\nCon cada reino mundanal,\ny cada trono caerá,\nCon cada trama y plan carnal,\nEl gran amor del Redentor\nPor siempre durará;\nLa gran canción de salvación\nSu pueblo cantará.",
@@ -1284,7 +1284,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 129,
     "title": "ES EL TIEMPO DE LA SIEGA",
-    "category": "Misiones y Servicio a Dios",
+    "category": "Misiones y Servicio",
     "originalKey": "Eb",
     "bpm": 85,
     "lyrics": "1 Es el tiempo de la siega y tú sin vacilar,\nDeclarando con holgura \"no hay que trabajar,\"\nMientras tanto que el Maestro te vuelve a llamar,\nJoven, joven, ven trabaja ya.\n\nCORO\nVen, y ve los campos blancos, cómo están\nAguardando manos que los segarán.\nJoven, ¡despierta! Hazlo pronto y alerta,\nSé el primero en decirle \"heme aquí, Señor.\"\nPor doquier se inclina la madura mies\nQue las auras mueven, y ¡qué bella es!\nJoven, ¡despierta! Hazlo pronto y alerta,\nPocos días hay que restan para el segador.\n\n2 Las gavillas que recojas, joyas de esplendor,\nBrillarán en la corona que dará el Señor.\nBusca pronto eternas joyas, Dios es premiador,\nJoven, joven, ven trabaja ya.\n\n3 Va pasando la mañana, y nunca volverá,\nPronto el tiempo de la siega aquí terminará,\nTe hallarás al fin vacío ante tu Criador.\nJoven, joven, ven trabaja ya.",
@@ -1384,7 +1384,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 139,
     "title": "CUANDO SUENEN LAS CAMPANAS",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "F",
     "bpm": 80,
     "lyrics": "1 Hay país de hermosura y de célica ternura\nDonde sólo llegaremos por la fe;\nAl entrar por sus portales y vivir como inmortales\nLas campanas de victoria escucharé.\n\nCORO\n¡Oh sublime, bello tema!\nDe los ángeles antema:\n¡Gloria, gloria! ¡Aleluya a nuestro Rey!\nEn aquel país de encantos\nReunido con los santos,\nLas campanas de victoria escucharé.\n\n2 Ni tristeza habrá ni llanto\nEn aquel país de encanto\nCuando todos llegaremos por la fe;\nMas raudal de bendiciones\ny de Cristo tiernos dones,\nLas campanas de victoria escucharé.\n\n3 Cuando todo aquí termine\ny la muerte nos domine,\n'Cuando fiel a mi Señor ensalzaré,\nNunca más habrá temores,\nAmarguras y dolores:\nLas campanas de victoria escucharé.",
@@ -1394,7 +1394,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 140,
     "title": "¡OH, SÍ, QUIERO VERLE!",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "A",
     "bpm": 85,
     "lyrics": "1 Voy feliz al dulce hogar, por fe en Jesús,\ny luchando por traer, almas a la luz;\nDardos encendidos mil vienen contra mí,\nMas yo sé que por fe, venceré aquí.\n\nCORO\n¡Oh, sí, quiero verle, ver al Salvador,\nQuiero ver su rostro lleno de amor;\nEn aquel gran día yo he de cantar,\nYa pasó todo afán, todo mi pesar.\n\n2 En las olas del turbión Cristo guardará,\nMi barquilla guiará hasta el puerto allá;\nYo tranquilo puedo estar, mi piloto es Él,\nEs mi Rey, tengo fe, sé que Él es fiel.\n\n3 En servir al Salvador por los valles voy,\nDonde muchas sombras hay, mas seguro estoy;\nMuchos triunfos obtendré, nunca faltará,\nMi Jesús, es la luz, Él me sostendrá.",
@@ -1414,7 +1414,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 142,
     "title": "BANDA DE ÁNGELES",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "G",
     "bpm": 80,
     "lyrics": "1 Mi sol muy pronto cesará,\nDa fin ya mi correr;\nMis duras pruebas dejé ya,\nMi triunfo puedo ver.\n\nCORO\nÁngeles, venid y estad junto a mí,\nEn alas de nieve mi ser llevad\nA mi eternal hogar,\nEn alas de nieve mi ser llevad\nA mi eternal hogar.\n\n2 Bien sé los míos cerca están\ny pronto los veré,\nEl agua siento del Jordán,\nEl cual yo cruzaré.\n\n3 Muy cerca estoy de Canaán,\nLos santos veo venir;\nPor eso canto con afán,\nPues pronto he de partir.\n\n4 Llevad mi ardiente corazón\nA quien murió por mí;\nSu sangre dióme salvación\ny el mal por Él vencí.",
@@ -1424,7 +1424,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 143,
     "title": "EN LA NUEVA JERUSALÉN",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "C",
     "bpm": 85,
     "lyrics": "1 Cuando cesen los conflictos de la vida terrenal,\ny dejemos este mundo de aflicción,\nEntraremos por las puertas de la patria celestial\nEn la nueva Jerusalén.\n\nCORO\nCantaremos con los santos la canción de redención,\nEn Jerusalén, en Jerusalén;\nCon acentos de alegría alabando al Salvador,\nEn la gran Jerusalén.\n\n2 Aunque el mar embravecido y las olas del turbión,\nSiempre agiten nuestra pobre embarcación,\nFiando en Cristo llegaremos a la playa celestial\nDe la nueva Jerusalén.\n\n3 Consagremos nuestras vidas al servicio del Señor,\nSiempre hablemos de su grande salvación,\nSi en su viña trabajamos nos espera galardón\nEn la nueva Jerusalén.\n\n4 En aquel país hermoso do jamás se dice \"adiós,\"\nGozaremos el descanso sin afán;\nCara a cara allá veremos a Jesús quien nos salvó,\nEn la nueva Jerusalén.",
@@ -1434,7 +1434,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 144,
     "title": "CERCA DE TI, SEÑOR",
-    "category": "Comunión y Oración",
+    "category": "Oración y Comunión",
     "originalKey": "F",
     "bpm": 75,
     "lyrics": "1 Cerca de ti, Señor,\nQuiero morar;\nTu grande, tierno amor\nQuiero gozar.\nLlena mi pobre ser,\nLimpia mi corazón,\nHazme tu rostro ver\nEn comunión.\n\n2 Pasos inciertos doy,\nEl sol se va;\nMas si contigo estoy,\nNo temo ya.\nHimnos de gratitud\nFerviente cantaré,\ny fiel a ti, Jesús,\nSiempre seré.\n\n3 Día feliz veré\nCreyendo en ti,\nEn que yo habitaré,\nCerca de ti.\nMi voz alabará,\nTu dulce nombre allí,\ny mi alma gozará,\nCerca de ti.",
@@ -1444,7 +1444,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 145,
     "title": "LA PUERTA ORIENTAL",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "D",
     "bpm": 80,
     "lyrics": "1 En el mundo la Iglesia,\nPeregrina ha de estar;\nAnhelante ella espera;\nSu feliz, eterno hogar.\n\nCORO\nNos veremos, nos veremos,\nNos veremos en la tierra más allá,\nNos veremos, nos veremos,\nJunto al río cristalino más allá.\n\n2 Nada aquí es permanente,\nTodo ha de terminar;\nMas miramos adelante\nEn el cielo nuestro hogar.\n\n3 Las familias en la tierra\nSe desunen al morir;\nMas esperan la mañana,\nEn que se han de reunir.\n\n4 Con Jesús cual unos reyes,\nPronto habremos de estar,\nJuntos, miles de millares,\nCon Jesús para morar.",
@@ -1454,7 +1454,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 146,
     "title": "EN LA VIÑA DEL SEÑOR",
-    "category": "Misiones y Servicio a Dios",
+    "category": "Misiones y Servicio",
     "originalKey": "Bb",
     "bpm": 85,
     "lyrics": "1 Yo quiero trabajar por el Señor,\nConfiando en su palabra y en su amor,\nQuiero yo cantar y orar,\ny ocupado siempre estar\nEn la viña del Señor.\n\nCORO\nTrabajar y orar\nEn la viña, en la viña del Señor;\nSí, mi anhelo es orar,\ny ocupado siempre estar\nEn la viña del Señor.\n\n2 Yo quiero cada día trabajar,\nY esclavos del pecado libertar;\nConducirlos a Jesús,\nNuestro guía, nuestra luz\nEn la viña del Señor.\n\n3 Yo quiero ser obrero de valor,\nConfiando en el poder del Salvador.\nEl que quiera trabajar,\nHallará también lugar,\nEn la viña del Señor.",
@@ -1464,7 +1464,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 147,
     "title": "GLORIA SIN FIN",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "A",
     "bpm": 80,
     "lyrics": "1 Cuando mis luchas terminen aquí\ny ya seguro en los cielos esté,\nCuando al Señor mire cerca de mí,\n¡Por las edades mi gloria será!\n\nCORO\n¡Esa será gloria sin fin,\nGloria sin fin, gloria sin fin!\nCuando por gracia su faz pueda ver,\n¡Esa mi gloria sin fin ha de ser!\n\n2 Cuando por gracia yo pueda tener\nEn sus mansiones morada de paz,\ny que allí siempre su faz pueda ver,\n¡Por las edades mi gloria será!\n\n3 Gozo infinito será contemplar,\nTodas los seres que yo tanto amé,\ny las la presencia de Cristo gozar,\nPor las edades mi gloria será!",
@@ -1474,7 +1474,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 148,
     "title": "CUANDO ESTEMOS EN GLORIA",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "Eb",
     "bpm": 85,
     "lyrics": "1 Canten del amor de Cristo,\nEnsalzad al Redentor;\nTributadle santos todos,\nGrande gloria y loor.\n\nCORO\nCuando estemos en gloria,\nEn presencia de nuestro Redentor,\nA una voz la historia,\nDiremos del gran Vencedor.\n\n2 La victoria es segura,\nA las huestes del Señor.\n¡Oh, pelead con la mirada\nPuesta en nuestro Protector!\n\n3 El pendón alzad, cristianos,\nDe la cruz, y caminad;\nDe triunfo en triunfos,\nSiempre firmes avanzad.\n\n4 Adelante en la lucha,\n¡Oh, soldados de la fe!\nNuestro el triunfo, oh escucha\nLos clamores, ¡viva el Rey!",
@@ -1484,7 +1484,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 149,
     "title": "MEDITAD",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "G",
     "bpm": 80,
     "lyrics": "1 Meditad en que hay un hogar\nEn la margen del río de luz,\nDonde van para siempre a gozar\nLos creyentes en Cristo Jesús.\n\nCORO\nMás allá, más allá,\nMeditad en que hay un hogar,\nMás allá, más allá, más allá,\nEn la margen del río de luz.\n\n2 Meditad en que amigos tenéis\nDe los cuales marchamos en pos,\ny pensad en que al fin los veréis,\nEn el alto palacio de Dios.\n\nCORO\nMás allá, más allá,\nMeditad en que amigos tenéis,\nMás allá, más allá, más allá,\nDe los cuales marchamos en pos.\n\n3 En que mora Jesús meditad,\nDonde seres que amamos están,\ny a la patria bendita volad\nSin angustias, temores ni afán.\n\nCORO\nMás allá, más allá,\nEn que mora Jesús meditad,\nMás allá, más allá, más allá,\nDonde seres que amamos están.\n\n4 Reunido a los míos seré,\nMi carrera a su fin toca ya;\ny en mi hogar celestial entraré,\nDo mi alma reposo tendrá.\n\nCORO\nMás allá, más allá,\nReunido a los míos seré,\nMás allá, más allá, más allá,\nMi carrera a su fin toca ya.",
@@ -1504,7 +1504,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 151,
     "title": "NO HAY TRISTEZA EN EL CIELO",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "Eb",
     "bpm": 80,
     "lyrics": "1 No hay tristeza en el cielo,\nNi llanto ni amargo dolor;\nNo hay corazón angustiado\nDo reina el Dios de amor;\nLas nubes de nuestro horizonte\nJamás aparecen allá,\nEl sol en su gloria esplendente\nDerrama su luz celestial.\n\nCORO\nYo voy a la patria del alma\nDo Cristo prepara mi hogar;\nDo todos los santificados\nIrán para siempre a morar;\nEl día feliz ya se acerca,\nEn que el sol para mí se pondrá:\n¡Oh! qué gozo será cuando mire al Señor\nEn aquella hermosa ciudad.\n\n2 No hay aflicción en el cielo,\nNi pruebas existen allá;\nEl alma que en Cristo reposa\nSegura en su seno estará;\nNo hay tentación en el cielo\nNi sombras de muerte atroz;\nEl árbol de vida florece\nDo fluye el río de Dios.\n\n3 ¡Cuán dulce será en el cielo,\nPasadas las penas aquí,\nVolvernos a ver reunidos\nCon nuestros amados allí;\nPor todos los siglos eternos!\n¡Qué dicha inefable ha de ser!\nEstar en presencia de Cristo,\nGozando de eterno placer.",
@@ -1524,7 +1524,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 153,
     "title": "HERMOSO PAÍS",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "F",
     "bpm": 80,
     "lyrics": "1 Hermoso manto real; bello país de luz,\nHermoso y dulce hogar habrá allá con Jesús;\nCorona allí tendré brillando en derredor,\nEn la eternal mansión a donde iré.\n\nCORO\n¡Oh real, bello país,\nO dulce hogar, pueblo feliz,\nCorona habré yo de esplender,\nEn la mansión de Dios a donde iré.\n\n2 En la mansión de Dios lindas cosas veré,\nAlegre el corazón, tesoros miraré;\nNo habrá maldad, ni muerte llegará,\nNo habrá dolor ni mal siempre jamás.\n\n3 Un gozo es para mí, que para siempre allí,\nEstaré con Jehová, libre de todo mal.\nSin penas ni temor, mucho gozaré yo,\n¡Qué gozo, oh Dios, llegar al dulce hogar!",
@@ -1544,7 +1544,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 155,
     "title": "ALLÍ NO HABRÁ TRIBULACIÓN",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "G",
     "bpm": 80,
     "lyrics": "1 En la mansión, do Cristo está,\nAllí no habrá tribulación;\nNingún pesar, ningún dolor,\nQue me quebrante el corazón.\n\nCORO\nAllí no habrá tribulación;\nNingún pesar, ningún dolor,\ny cuando esté morando allá,\nDiré que no hay tribulación.\n\n2 Será muy triste estarme aquí,\nMuy lejos, sí, del Salvador,\nPues moran ya con Él allí,\nLos redimidos por su amor.\n\n3 Perfecto amor encontraré,\nEn la mansión del Salvador;\nPerfecta paz allí tendré,\nMejor que la que gozo hoy.\n\n4 Entonces, sí, yo gozaré\nDe toda la felicidad,\ny ya con Cristo reinaré\nPor toda la eternidad.",
@@ -1584,7 +1584,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 159,
     "title": "¡OH, QUÉ AMOR!",
-    "category": "Amor de Dios",
+    "category": "Especiales y Ocasiones",
     "originalKey": "D",
     "bpm": 80,
     "lyrics": "1 Dios amase un pecador cual yo,\nQue cambiase en gozo su pesar;\nA su redil me trajo su bondad,\n¡Cuán maravilloso amor!\n\nCORO\n¡Oh amor, divino amor!\n¡Oh amor, divino amor!\nDios amase un pecador cual yo,\n¡Cuán maravilloso amor!\n\n2 Jesucristo con muy gran dolor,\nEn Gólgota por mí fuese a morir;\nMás asunto no hay para decir,\nDe su divino amor.\n\n3 Tan despreciado y grande pecador,\nDios me amó y su Hijo amado dio;\nSi un vil esclavo diera redención,\nQue su gracia despreció.\n\n4 Por su amor soy hecho su hijo yo,\nNo me pide ser siervo ya más;\nA tierras lejos yo no vago ya,\nEn su gracia encuentro amor.",
@@ -1664,7 +1664,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 167,
     "title": "DILO A CRISTO",
-    "category": "Comunión y Oración",
+    "category": "Oración y Comunión",
     "originalKey": "Ab",
     "bpm": 80,
     "lyrics": "1 Cuando estés cansado y abatido,\nDilo a Cristo, dilo a Cristo;\nSi te sientes débil, confundido,\nDilo a Cristo el Señor.\n\nCORO\nDilo a Cristo, dilo a Cristo,\nÉl es tu Amigo más fiel;\nNo hay otro amigo como Cristo\nDilo tan sólo a Él.\n\n2 Cuando estés de tentación cercado,\nMira a Cristo, mira a Cristo;\nCuando rujan huestes de pecado,\nMira a Cristo el Señor.\n\n3 Si se apartan otros de la senda,\nSigue a Cristo, sigue a Cristo;\nSi acrecienta en torno la contienda,\nSigue a Cristo el Señor.\n\n4 Cuando llegue la final jornada,\nFía en Cristo, fía en Cristo;\nTe dará en el cielo franca entrada,\nFía en Cristo el Señor.",
@@ -1714,7 +1714,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 172,
     "title": "A SOLAS CON CRISTO",
-    "category": "Comunión y Oración",
+    "category": "Oración y Comunión",
     "originalKey": "A",
     "bpm": 75,
     "lyrics": "1 A solas al huerto yo voy\nCuando duerme aún la floresta;\nEn quietud y paz con Jesús estoy\ny absorto allí su voz.\n\nCORO\nConmigo está, puedo oír su voz,\ny que suyo dice seré;\ny el encanto que hallo en Él allí,\nCon nadie tener podré.\n\n2 Tan dulce es la voz del Señor,\nQue las aves guardan silencio,\ny tan sólo se oye esa voz de amor,\nQue inmensa paz al alma da.\n\n3 Con Él encantado yo estoy,\nAunque en torno lleguen las sombras;\nMas me ordena a ir que a escuchar yo voy:\nSu voz doquier la pena esté.",
@@ -1724,7 +1724,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 173,
     "title": "EL HERMOSO HUERTO DE ORACIÓN",
-    "category": "Comunión y Oración",
+    "category": "Oración y Comunión",
     "originalKey": "C",
     "bpm": 80,
     "lyrics": "1 Hay un huerto do Cristo me espera,\nHay un sitio de consolación;\n¡Cuán radiante es la luz de su presencia!\nEn el huerto de dulce oración.\n\nCORO\n¡Oh, qué hermoso es el huerto de oración!\nCuando a solas estoy con mi Señor,\ny se alienta en mí la fe, en presencia de mi Dios:\n¡Oh, qué hermoso es el huerto de oración!\n\n2 Hay un huerto do Cristo me acoge,\nJunto a Él a gozar comunión;\nSiempre escucho su voz tan amorosa\nEn el huerto de dulce oración.\n\n3 Es un huerto do Cristo te invita,\nA darte pureza y perdón;\nVen a Él, y a sus plantas pon tus cargas\nEn el huerto de dulce oración.",
@@ -1744,7 +1744,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 175,
     "title": "ORA HASTA TRIUNFAR",
-    "category": "Comunión y Oración",
+    "category": "Oración y Comunión",
     "originalKey": "F",
     "bpm": 80,
     "lyrics": "1 Si solo y triste te sientes tú,\nPor los cuidados y el mal,\nTus cargas aliviará Jesús\nSi oras a Él sin cesar.\n\nCORO\nOra con fe, ora con fe\n¿Triunfo deseas tener? Ora con fe.\nOra con fe, ora con fe\n¿Triunfo deseas tener? Ora con fe.\n\n2 Si estás tentado a volver atrás\nTentado a desesperar,\nCorre a los brazos del Salvador,\nDile todo en oración.\n\n3 Si por problemas perplejo estás,\nOra y solución tendrás,\nSi enfermedades minan tu ser,\nOra hasta el triunfo obtener.",
@@ -1754,7 +1754,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 176,
     "title": "MI HOGAR CELESTIAL",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "G",
     "bpm": 80,
     "lyrics": "1 Hay en el cielo un dulce hogar,\nDonde quisiera yo morar.\nJesús mi Señor me prepara allí\nUn hogar, un bellísimo hogar.\n\nCORO\nBello hogar, mi dulce hogar,\nDonde anhelo estar;\nMiro el fulgor de la ciudad de luz\nMi dulce hogar.\n\n2 En mis amados estaré,\nA mi Señor Jesús veré.\nFeliz viviré por la eternidad,\nEn mi hogar, mi bellísimo hogar.\n\n3 La vida es breve, pronto iré,\nAllí donde está mi eterno Rey;\nEn clara visión puedo contemplar\nA mi hogar, un bellísimo hogar.",
@@ -1764,7 +1764,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 177,
     "title": "CRISTO CONTESTARÁ TU ORACIÓN",
-    "category": "Comunión y Oración",
+    "category": "Oración y Comunión",
     "originalKey": "Eb",
     "bpm": 80,
     "lyrics": "1 Si tu sendero hallas cruento dolor,\nVe a Jesucristo tu buen Salvador,\nElevas tú a su trono de amor,\nUna vez Él contestará.\n\nCORO\nTu prez Él contestará,\nEn todo Él te ayudará,\nTe da su presencia, su gozo y clemencia,\nContestará Cristo tu prez.\n\n2 Oh, no desmayes pues Él te guiará,\nDile tus penas, te consolará,\nÉl es tu Amigo y te lo probará,\nTu prez Él contestará.\n\n3 Tus culpas todas Él quiere borrar,\nDe tus maldades te quiere limpiar,\nNadie cual Cristo te hará aquí triunfar\nTu prez Él contestará.\n\n4 Diario al Maestro vé por dirección,\nFía en Él de todo corazón,\ny si en su nombre haces tu petición,\nTu prez Él contestará.",
@@ -1814,7 +1814,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 182,
     "title": "DULCE ORACIÓN",
-    "category": "Comunión y Oración",
+    "category": "Oración y Comunión",
     "originalKey": "D",
     "bpm": 75,
     "lyrics": "1 Dulce oración, dulce oración,\nDe toda influencia mundanal\nElevas tú mi corazón,\nAl tierno Padre celestial.\n¡Oh, cuántas veces tuve en ti\nAuxilio en ruda tentación,\ny cuántos bienes recibí,\nMediante ti, dulce oración!\n\n2 Dulce oración, dulce oración,\nAl trono excelso de bondad\nTú llevarás mi petición\nA Dios que escucha con piedad.\nPor fe espero recibir\nLa gran divina bendición,\ny siempre a mi Señor servir\nPor tu virtud, dulce oración.\n\n3 Dulce oración, dulce oración,\nQue aliento y gozo al alma da;\nEn esta tierra de aflicción\nConsuelo siempre me serás.\nHasta el momento en que veré\nFrancas las puertas de Sion,\nEntonces me despediré\nFeliz, de ti, dulce oración.",
@@ -1874,7 +1874,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 188,
     "title": "VENID, FIELES TODOS",
-    "category": "Especiales / Ocasiones",
+    "category": "Especiales y Ocasiones",
     "originalKey": "A",
     "bpm": 85,
     "lyrics": "1 Venid, fieles todos, a Belén marchemos:\nDe gozo triunfantes, henchidos de amor;\ny al Rey de los cielos humildes veremos:\n\nCORO\nVenid, adoremos, venid adoremos,\nVenid, adoremos a Cristo el Señor.\n\n2 El que es Hijo eterno, del eterno Padre\ny Dios verdadero que al mundo creó:\nDel seno virgíneo nació de una madre.\n\n3 En pobre pesebre yace reclinado,\nAl hombre ofreciendo eternal salvación:\nEl santo Mesías, el Verbo humanado.\n\n4 Cantad jubilosas, celestes criaturas;\nCielos con voz de triunfo resuenen:\n¡Dios bondadoso, gloria en las alturas!",
@@ -1884,7 +1884,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 189,
     "title": "CAMINANDO EN LA LUZ DE DIOS",
-    "category": "Santidad y Vida Cristiana",
+    "category": "Consagración",
     "originalKey": "Eb",
     "bpm": 85,
     "lyrics": "1 Preciosa paz nos da el Señor\nSi vamos caminando en la vía de amor,\nDicha sin igual nuestra senda será\nSi vamos caminando en la luz de Dios!\n\nCORO\nCaminando en la luz de Dios\nCaminando en la luz de Dios\nViviendo en comunión, fiando en la Biblia\nEstamos caminando en la luz de Dios.\n\n2 La paz que da el Señor así nos muestra\nCual luz que van dando en la luz de Dios;\nLa redención purifica el corazón\nCaminando en la luz de Dios.\n\n3 En comunión en perfecta luz,\nCaminando en la luz de Dios;\nCon Jesús, comunión en pena y luz,\nCaminando en la luz de Dios.\n\n4 A través del mundo cruel o del valle do no hay miel,\nMientras vamos caminando en la luz de Dios;\nCaminemos hacia Sion donde está nuestra mansión,\nMientras vamos caminando en la luz de Dios.",
@@ -1894,7 +1894,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 190,
     "title": "JESÚS DE LOS CIELOS",
-    "category": "Especiales / Ocasiones",
+    "category": "Especiales y Ocasiones",
     "originalKey": "D",
     "bpm": 80,
     "lyrics": "1 Jesús de los cielos\nAl mundo bajó,\nEn busca de joyas\nQue amante compró.\n\nCORO\nLos niños salvados\nSerán como el sol,\nBrillando en la gloria\nDel rey Salvador.\n\n2 Angustias y muerte,\ny horrible aflicción,\nCostaron las joyas\nQue amante compró.\n\n3 Su hermosa diadema\nDe eterno esplendor\nLa adornan las joyas\nQue amante compró.\n\n4 Los niños y niñas\nQue van al Señor,\nSon todos, las joyas\nQue amante compró.\n\n5 Venid, pues, alegres\nAl buen Redentor;\nÉl quiere las joyas\nQue amante compró.",
@@ -2054,7 +2054,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 206,
     "title": "VENID, PASTOREILLOS",
-    "category": "Especiales / Ocasiones",
+    "category": "Especiales y Ocasiones",
     "originalKey": "G",
     "bpm": 85,
     "lyrics": "1 Venid, pastoreillos, venid a adorar\nAl rey de los cielos que nace en Judá.\nSin ricas ofrendas podemos llegar,\nQue el niño prefiere la fe y la bondad.\n\n2 Un rústico techo abrigo le da,\nPor cuna un pesebre, por templo un portal;\nEn lecho de pajas incógnito está,\nQuien quiso a los astros su gloria prestar.\n\n3 Hermoso lucero le vino a anunciar,\ny magos de oriente buscándole van:\nDelante se postran del Rey de Judá,\nDe incienso, oro y mirra tributo le dan.",
@@ -2064,7 +2064,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 207,
     "title": "LUGAR PARA CRISTO",
-    "category": "Especiales / Ocasiones",
+    "category": "Especiales y Ocasiones",
     "originalKey": "C",
     "bpm": 80,
     "lyrics": "1 Tú dejaste tu trono y corona por mí,\nAl venir a Belén a nacer;\nMas a ti no fue dado el entrar al mesón,\nY en pesebre te hicieron nacer.\n\nCORO\nVen a mi corazón, ¡oh Cristo!\nPues en él hay lugar para ti;\nVen a mi corazón, ¡oh Cristo! ven,\nPues en él hay lugar para ti.\n\n2 Alabanzas celestes los ángeles dan,\nEn que rinden al Verbo loor;\nMas humilde viniste a la tierra, Señor,\nA dar vida al más vil pecador.\n\n3 Siempre pueden las zorras sus cuevas tener,\ny las aves sus nidos también,\nMas el Hijo del hombre no tuvo un lugar\nEn el cual reclinara su sien.\n\n4 Tú viniste, Señor, con tu gran bendición\nPara dar libertad y salud,\nMas con odio y desprecio te hicieron morir,\nAunque vieron tu amor y virtud.\n\n5 Alabanzas sublimes los cielos darán,\nCuando vengas glorioso de allí,\ny tu voz entre nubes dirá: \"Ven a mí,\nQue hay lugar junto a mí para ti.\"",
@@ -2074,7 +2074,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 208,
     "title": "SUENEN DULCES HIMNOS",
-    "category": "Especiales / Ocasiones",
+    "category": "Especiales y Ocasiones",
     "originalKey": "G",
     "bpm": 85,
     "lyrics": "1 ¡Suenen dulces himnos gratos al Señor,\ny óiganse en concierto universal!\nDesde el alto cielo baja el Salvador\nPara beneficio del mortal.\n\nCORO\n¡Gloria! ¡Gloria sea a nuestro Dios!\n¡Gloria! Sí cantemos a una voz,\ny el cantar de gloria, que se oyó en Belén,\nSea nuestro cántico también.\n\n2 Montes y collados fluyan leche y miel,\ny abundancia esparzan y solaz.\nGócense los pueblos, gócese Israel,\nQue a la tierra viene ya la paz.\n\n3 Salte de alegría lleno el corazón,\nLa abatida y pobre humanidad;\nDios se compadece viendo su aflicción,\ny le muestra buena voluntad.\n\n4 Lata en nuestros pechos noble gratitud\nHacia quien nos brinda redención;\ny a Jesús el Cristo, que nos da salud,\nTributemos nuestra adoración.",
@@ -2084,7 +2084,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 209,
     "title": "¡AL MUNDO PAZ, NACIÓ JESÚS!",
-    "category": "Especiales / Ocasiones",
+    "category": "Especiales y Ocasiones",
     "originalKey": "D",
     "bpm": 85,
     "lyrics": "1 ¡Al mundo paz, nació Jesús!\nNació ya nuestro Rey;\nEl corazón ya tiene luz,\ny paz su santa grey,\ny paz su santa grey,\ny paz, y paz su santa grey.\n\n2 ¡Al mundo paz, el Salvador\nEn tierra reinará!\nYa es feliz el pecador,\nJesús perdón le da,\nJesús perdón le da,\nJesús, Jesús perdón le da.\n\n3 Al mundo Él gobernará\nCon gracia y con poder;\nA las naciones probará\nSu amor y su poder,\nSu amor y su poder,\nSu amor, su amor y su poder.",
@@ -2094,7 +2094,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 210,
     "title": "¡NOCHE DE PAZ! ¡NOCHE DE AMOR!",
-    "category": "Especiales / Ocasiones",
+    "category": "Especiales y Ocasiones",
     "originalKey": "Bb",
     "bpm": 75,
     "lyrics": "1 ¡Noche de paz, noche de amor!\nTodo duerme en derredor,\nEntre los astros que esparcen su luz,\nBella anunciando al niñito Jesús,\nBrilla la estrella de paz,\nBrilla la estrella de paz.\n\n2 ¡Noche de paz, noche de amor!\nOye humilde el fiel pastor,\nCoros celestes que anuncian salud,\nGracias y glorias en gran plenitud,\nPor nuestro buen Redentor,\nPor nuestro buen Redentor.\n\n3 ¡Noche de paz, noche de amor!\nVed qué bello resplandor\nLuce en el rostro del niño Jesús,\nEn el pesebre del mundo la luz,\nAstro de eterno fulgor,\nAstro de eterno fulgor.",
@@ -2104,7 +2104,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 211,
     "title": "AUNQUE SOY PEQUEÑUELO",
-    "category": "Especiales / Ocasiones",
+    "category": "Especiales y Ocasiones",
     "originalKey": "F",
     "bpm": 80,
     "lyrics": "1 Aunque soy pequeñuelo,\nMe mira el santo Dios,\nÉl oye desde el cielo\nMi humilde y tierna voz.\n\n2 Me ve de su alto asiento,\nMi nombre sabe, sí,\ny cuanto pienso y siento\nConoce desde allí.\n\n3 Él mira a cada instante\nLo que hago bien o mal,\nPues todo está delante\nDe su ojo paternal.",
@@ -2114,7 +2114,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 212,
     "title": "CRISTO ME AMA",
-    "category": "Especiales / Ocasiones",
+    "category": "Especiales y Ocasiones",
     "originalKey": "C",
     "bpm": 80,
     "lyrics": "1 Cristo me ama, bien lo sé\nSu Palabra me hace ver,\nQue los niños son de Aquel,\nQuien es nuestro Amigo fiel.\n\nCORO\nCristo me ama,\nCristo me ama,\nCristo me ama,\nLa Biblia dice así.\n\n2 Cristo me ama, pues murió,\ny el cielo me abrió;\nÉl mis culpas quitará,\ny la entrada me dará.\n\n3 Cristo me ama-es verdad-\ny me cuida en su bondad,\nCuando muera, si soy fiel,\nViviré allá con Él.",
@@ -2154,7 +2154,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 216,
     "title": "SANTA BIBLIA",
-    "category": "Santidad y Vida Cristiana",
+    "category": "Consagración",
     "originalKey": "G",
     "bpm": 80,
     "lyrics": "1 Santa Biblia para mí\nEres un tesoro aquí;\nTú contienes con verdad\nLa divina voluntad;\nTú me dices lo que soy,\nDe quién vine y a quién voy.\n\n2 Tú reprendes mi dudar;\nTú me exhortas sin cesar;\nEres faro que a mi pie,\nVa guiando por la fe\nA las fuentes del amor\nDel bendito Salvador.\n\n3 Eres infalible voz\nDel Espíritu de Dios,\nQue vigor al alma da\nCuando en aflicción está;\nTú me enseñas a triunfar\nDe la muerte y del pecar.\n\n4 Por tu santa letra sé\nQue con Cristo reinaré\nYo que tan indigno soy,\nPor tu luz al cielo voy;\n¡Santa Biblia! para mí\nEres un tesoro aquí.",
@@ -2164,7 +2164,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 217,
     "title": "LA SANTA CENA",
-    "category": "Especiales / Ocasiones",
+    "category": "Especiales y Ocasiones",
     "originalKey": "G",
     "bpm": 80,
     "lyrics": "1 Santa cena, para mí,\nEres memorial aquí:\nTú me enseñas con verdad\nEl misterio de bondad;\nMe recuerdas de la cruz,\nDel Cordero, mi Jesús.\n\n2 Nos elevas nuestro ser,\nAl angélico placer;\nTipificas con señal\nLa crucificción pascual,\nComulguemos al tomar\nDe Jesús y su penar.\n\n3 Participe el corazón\nDe tu conmemoración;\nNos recuerdas al partir\nDe Jesús y su venir;\nEres tú nuestra señal\nDe su Pacto divinal.\n\n4 Como sello del amor\nDel divino Redentor,\nVolveremos a tomar,\ny con Cristo disfrutar,\nDe la Cena del Señor,\nPrenda fiel del viador.",
@@ -2174,7 +2174,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 218,
     "title": "MI MADRE",
-    "category": "Especiales / Ocasiones",
+    "category": "Especiales y Ocasiones",
     "originalKey": "F",
     "bpm": 80,
     "lyrics": "1 A mi madre tan querida\nYo jamás podré olvidar;\nMientras dure aquí mi vida,\nMientras mi alma pueda amar.\n\nCORO\nA mi madre tan querida,\nLa honraré toda la vida,\nQue mi prez sea concedida\nDe poderla allá mirar.\n\n2 La bendita madre mía\nEn la infancia ella me guió;\nElla fue luz y alegría\nQue mis penas mitigó.\n\n3 De sus manos mil caricias\nY mil besos recibí;\nSus consejos mis delicias;\nY su eterno amor sentí.\n\n4 Sus miradas de ternura,\nSus consejos todo amor;\nY sus ruegos a la altura,\nMe han llevado hasta el Señor.",
@@ -2184,7 +2184,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 219,
     "title": "LA ANTIGUA BIBLIA Y LA ANTIGUA FE",
-    "category": "Santidad y Vida Cristiana",
+    "category": "Consagración",
     "originalKey": "Bb",
     "bpm": 80,
     "lyrics": "1 Entre duda y mal en que teméis quizá\nPermanece un Libro santo y eficaz;\nAunque el mundo pase, nunca cambiará,\nPorque Dios ha dicho que siempre durará.\n\nCORO\nLa Biblia y la fe antigua\nSon las rocas en que estoy.\nLa Biblia y la fe antigua\nDel país defensa son;\nHan resistido oposición\nDe todo el mundo en derredor.\nLa Biblia y la fe antigua\nLa esperanza doquier son.\n\n2 Este Libro dice del eterno Dios\nQue por gran amor al mundo a su Hijo envió:\nQue por sus promesas riquezas ofreció,\nY a todo el que cree le da plena salvación.\n\n3 De la voluntad de Dios nos habla él,\nY del Salvador que al mundo descendió,\nDe las duras pruebas que Jesús sufrió\nY del gran poder que nos da para vencer.\n\n4 De la vida eterna nos explica aquí,\nQue recibiremos tras servicio leal\nY al vencer la muerte y a la Sion entrar\nViviremos con gozo, paz y luz sin fin.\n\nCORO FINAL\nOh, la antigua Biblia y la antigua fe,\nSon las rocas en que estoy,\nOh, la excelsa Biblia y la amada fe,\nLa esperanza doquier son.",
@@ -2194,7 +2194,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 220,
     "title": "CREO EN LA BIBLIA",
-    "category": "Santidad y Vida Cristiana",
+    "category": "Consagración",
     "originalKey": "G",
     "bpm": 80,
     "lyrics": "1 Creo en la Biblia, el Libro redentor,\nPues de Jesucristo muestra el dulce amor;\nTodos mis pecados ya borrados son;\nPaz y gozo tengo en mi corazón.\n\nCORO\nCreo en la Biblia, Libro de mi Dios;\nMúsica del cielo, para mí es su voz;\nMuéstrame el camino, y me trae dulce paz,\nHallo en la Biblia todo mi solaz.\n\n2 Creo en la Biblia, enséñame a cantar.\nCantos de victoria, de su amor sin par;\nSuaves melodías, tengo en mi alma hoy,\nPorque redimido por la sangre estoy.\n\n3 En la Santa Biblia encuentro santidad,\nDádiva de Cristo, y su voluntad;\nTodos los que buscan plena salvación,\nHallarán en Cristo esta bendición.\n\n4 Hoy la Biblia oigamos, mostrando a los demás,\nEl amor de Cristo, y su inmensa paz;\nPues la vida nuestra libre de maldad,\nHonrará el divino Libro de verdad.",
@@ -2204,7 +2204,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 221,
     "title": "LA PALABRA FIEL",
-    "category": "Santidad y Vida Cristiana",
+    "category": "Consagración",
     "originalKey": "C",
     "bpm": 85,
     "lyrics": "1 Es segura base la verdad de Dios;\nEn la Biblia ella nos es dada;\nEste pobre mundo pasará veloz,\nLa Palabra quedará fijada.\n\nCORO\nLa Palabra fiel, dulce como miel,\nEl mensaje célico de nuestro Dios;\nPor los ataques mil, por el furor hostil,\nPermanece la eterna voz de Dios.\n\n2 Los que a la Palabra prestan atención,\nLos que en ella ponen su confianza\nFuertes y valientes por lo recto son;\nViven en la fe y en la esperanza.\n\n3 Faro es ella a marineros en la mar,\ny a los viajeros una lumbre,\nA los extraviados es la guía sin par,\ny disipa toda incertidumbre.\n\n4 En la Santa Biblia siempre confiaré,\nEn las pruebas y las tempestades;\nEs la base de mi amor y vida y fe;\nSé que durará por las edades.",
@@ -2224,7 +2224,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 223,
     "title": "GOZO LA SANTA PALABRA LEER",
-    "category": "Santidad y Vida Cristiana",
+    "category": "Consagración",
     "originalKey": "F",
     "bpm": 80,
     "lyrics": "1 Gozo la Santa Palabra al leer,\nCosas preciosas allí puedo ver;\ny es la más bella: que el buen Redentor,\nTiene a los niños muy tierno amor.\n\nCORO\nCon tierno amor me ama Jesús,\nMe ama Jesús, me ama Jesús,\nCon tierno amor me ama Jesús,\nMe ama aun a mí.\n\n2 Me ama Jesús, pues al mundo bajó,\ny por salvarme su vida entregó,\nA sus discípulos Él dijo así,\nDejad los niños que vengan a mí.\n\n3 Cuando yo esté en la celeste mansión,\nEsta por siempre será mi canción:\n¡Oh! buen Jesús, te bendigo yo a ti,\n¡Qué maravillarme amaste Tú a mí.",
@@ -2234,7 +2234,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 224,
     "title": "AMOR MATERNAL",
-    "category": "Especiales / Ocasiones",
+    "category": "Especiales y Ocasiones",
     "originalKey": "Ab",
     "bpm": 75,
     "lyrics": "1 Los años de mi infancia me recuerdan con dolor,\nQue a veces despreciaba de mi madre el tierno amor;\nMas ya que está en el cielo, anhelo su solicitud,\nDile, ¡oh Señor! que en gloria la veré.\n\nCORO\n¡Oh madre de mi amor! en gloria te veré,\nTu tierno amor jamás olvidaré;\nEn la mansión de paz, veré tu dulce faz,\ny junto a ti por siglos moraré.\n\n2 Por más que anduve errante yo por sendas de maldad,\nMi cariñosa madre me trataba con bondad;\nMis cuitas infantiles endulzaba con amor,\nDile, ¡oh Señor! que en gloria la veré.\n\n3 Al verme solo y lejos de mi hogar, mi dulce hogar,\nCon su angustiado corazón lloraba sin cesar;\ny día y noche oraba a Dios por mí, con grande fe,\nDile, ¡oh Señor! que en gloria la veré.\n\n4 Infausta nueva un día me llegó, diciendo: Ven,\nSi quieres a tu madre ver, que hoy vuela al alto Edén.\nLloré, cuando en los brazos de la muerte la encontré,\ny dije, ¡oh madre! en gloria te veré.",
@@ -2274,7 +2274,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 228,
     "title": "AL UMBRAL DEL AÑO",
-    "category": "Especiales / Ocasiones",
+    "category": "Especiales y Ocasiones",
     "originalKey": "Eb",
     "bpm": 80,
     "lyrics": "1 Al umbral del año, Cristo, Salvador,\nTodos te ofrecemos hoy cantos de amor\nPor tus bendiciones recibidas ya\n¡Cuántas alabanzas te debemos dar!\n\nCORO\nOye nuestro canto, Cristo Salvador\nGracias infinitas por tu gran amor.\n\n2 Todas nuestras faltas Tú conoces bien,\nTodos los fracasos viste tú también;\nDe tu amor amante, cada corazón\nLimpia con tu sangre; danos tu perdón.\n\n3 Salvador divino, pues conoces ya,\nLo que nos espera en el mundo acá,\nToma nuestra mano; danos tu poder,\nHasta que tu rostro nos permitas ver.",
@@ -2294,7 +2294,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 230,
     "title": "NIÑOS, JOYAS DE CRISTO",
-    "category": "Especiales / Ocasiones",
+    "category": "Especiales y Ocasiones",
     "originalKey": "F",
     "bpm": 85,
     "lyrics": "1 Los niños son de Cristo,\nÉl es su Salvador,\nSon joyas muy preciosas,\nComprólas con su amor.\n\nCORO\nJoyas, joyas, joyas,\nJoyas del Salvador,\nEstán en esta tierra,\nCual luz y dulce amor.\n\n2 Los niños son tesoros,\nPues que del cielo son,\nLuz refulgente esparcen,\nEn horas de aflicción.\n\n3 Los niños son estrellas,\nDe grata claridad,\nQuiere Jesús que anuncien\nAl mundo su verdad.\n\n4 Los niños son de Cristo,\nPor ellos Él vendrá;\nQue el niño tierno y amante\nEn ella pueda entrar.",
@@ -2304,7 +2304,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 231,
     "title": "TENTADO NO CEDAS",
-    "category": "Santidad y Vida Cristiana",
+    "category": "Consagración",
     "originalKey": "Bb",
     "bpm": 85,
     "lyrics": "1 Tentado no cedas; ceder es pecar;\nMejor y más noble es luchar y triunfar;\nValor pues, cristiano, domina tu mal;\nDios puede librarte, de asalto mortal.\n\nCORO\nEn Jesús, pues, confía,\nEn sus brazos tu alma,\nHallará dulce calma,\nÉl te hará vencedor.\n\n2 Evita el pecado, procura agradar,\nA Dios a quien debes, por siempre ensalzar,\nNo manche tus labios, impúdica voz,\nPreserva tu vida, de ofensas a Dios.\n\n3 Amante, benigno, y enérgico sé;\nEn Cristo tu Amigo, pon toda tu fe;\nVeraz sea tu dicho, de Dios es tu ser;\nCorona te espera, y vas a vencer.",
@@ -2324,7 +2324,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 233,
     "title": "NI TOQUES, NI PRUEBES",
-    "category": "Santidad y Vida Cristiana",
+    "category": "Consagración",
     "originalKey": "C",
     "bpm": 80,
     "lyrics": "1 Peligros hay en el licor,\n¡No lo toques tú jamás!\nAl cuerpo y alma ruina da,\n¡No lo pruebes tú jamás!\nTu dulce hogar lo destruirá,\nSu paz y pan le quitará,\ny negros males le traerá,\n¡No lo bebas tú jamás!\n\n2 Bebidas fuertes hacen mal,\n¡No lo toques tú jamás!\nPor el licor esclavos hay.\n¡No lo pruebes tú jamás!\nAl viejo, al joven lleva él\nEn el camino a perecer;\nSus fuerzas todas a perder,\n¡No lo bebas tú jamás!\n\n3 Unámonos de corazón,\nAl licor nunca tocar;\ny la embriaguez así quitar\ny el licor nunca probar.\nDeseamos pueblo fuerte y leal\nPara destruir redes del mal,\ny las heridas hoy curar\ny el licor jamás usar.\n\n4 Apresurad tiempo feliz,\nNo tocando el vil licor;\nCuando habrá paz y gozo aquí\nSin probar el vil licor.\nContra el licor bandera alzad\ny vuestros cantos elevad\ny en las alturas gloria dad:\n¡Salva nuestra patria, oh Dios!",
@@ -2404,7 +2404,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 241,
     "title": "DIOS OS GUARDE",
-    "category": "Comunión y Oración",
+    "category": "Oración y Comunión",
     "originalKey": "C",
     "bpm": 80,
     "lyrics": "1 Dios os guarde en su santo amor,\nHasta el día en que lleguemos,\nA la patria do estaremos,\nPara siempre con el Salvador.\n\nCORO\nAl venir Jesús nos veremos,\nA los pies de nuestro Salvador;\nReunidos todos seremos,\nUn redil con nuestro buen Pastor.\n\n2 Dios os guarde en su santo amor;\nEn la senda peligrosa,\nDe esta vida tormentosa,\nOs conserve en paz y sin temor.\n\n3 Dios os guarde en su santo amor;\nOs conduzca su bandera;\ny os esfuerce en gran manera,\nCon su Espíritu Consolador.\n\n4 Dios os guarde en su santo amor;\nCon su gracia Él os sostenga,\nHasta que el Maestro venga,\nA fundar su reino en esplendor.",
@@ -2414,7 +2414,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 242,
     "title": "UN CANTO PARA MI MADRE",
-    "category": "Especiales / Ocasiones",
+    "category": "Especiales y Ocasiones",
     "originalKey": "G",
     "bpm": 80,
     "lyrics": "1 Para mi madre tengo un canto,\nPor su sin igual virtud;\nCanto que brota de mi gratitud\nPor su amor y su bondad.\n\nCORO\nBendigamos hoy nuestras mamás,\nQue nos dieron el ser, que nos dieron su amor;\ny que Dios les dé felicidad\ny dé su amparo y bendición.\n\n2 Honrar debemos nuestras madres\nComo lo manda el Señor,\nViviendo como hijos de nuestro Dios\nEn virtud y santidad.\n\n3 Que Dios corone a nuestras madres\nCon su sin igual poder;\ny que cual hijos nos logremos ver\nLa maternidad feliz.",
@@ -2474,7 +2474,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 248,
     "title": "LA COMUNIÓN",
-    "category": "Especiales / Ocasiones",
+    "category": "Especiales y Ocasiones",
     "originalKey": "C",
     "bpm": 80,
     "lyrics": "1 Amoroso nos convida\nCristo a esta comunión,\ny nos da el pan de vida\ny el cáliz de redención.\n\n2 A tu dulce llamamiento\nAcudimos, oh, Señor;\nQue en tu comunión aumento\nTengan nuestra fe y amor.\n\n3 En lugar de tantos dones,\n¿Qué podemos ofrecer?\nToma nuestros corazones,\nNuestras almas, nuestro ser.\n\n4 En tu mesa prometemos\nEn tu santa ley vivir,\ny que fieles te seremos,\nBuen Jesús hasta el morir. Amén.",
@@ -2484,7 +2484,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 249,
     "title": "EL AMOR DE JESUCRISTO",
-    "category": "Amor de Dios",
+    "category": "Especiales y Ocasiones",
     "originalKey": "F",
     "bpm": 80,
     "lyrics": "1 Del santo amor de Cristo que no tendrá su igual,\nDe su divina gracia, sublime y eternal;\nDe su misericordia, inmensa como el mar\ny cual los cielos alta, con gozo he de cantar.\n\nCORO\nEl amor de mi Señor,\nGrande y dulce es más y más;\nRico e inefable, nada es comparable\nAl amor de mi Jesús.\n\n2 Cuando Él vivió en el mundo la gente lo siguió,\ny todas sus angustias en Él depositó,\nEntonces bondadoso, su amor brotó en raudal,\nIncontenible, inmenso, sanando todo mal.\n\n3 Él puso en las pupilas del ciego nueva luz,\nLa eterna luz de vida que centellea en la cruz;\ny dio a las almas todas la gloria de su ser,\nAl impartir su gracia, su Espíritu y poder.\n\n4 Su amor, por las edades del mundo es el fanal,\nQue marca esplendoroso la senda del ideal;\ny el paso de los años, lo hará más dulce y más\nPrecioso al dar le al alma su incomparable paz.",
@@ -2494,7 +2494,7 @@ export const lluviasSongs: Song[] = [
   {
     "number": 250,
     "title": "SI HE OFENDIDO A ALGUIEN",
-    "category": "Comunión y Oración",
+    "category": "Oración y Comunión",
     "originalKey": "C",
     "bpm": 75,
     "lyrics": "1 Si he ofendido a alguien hoy, Señor,\nSi un alma he apartado de tu amor,\nSi he sido yo un egoísta hoy:\nImploro perdón.\n\n2 Si he conversado ocioso en vez de orar,\nSi en tu redil quería descansar,\ny el puesto en dura lid abandonar:\nImploro perdón.\n\n3 Si en su aflicción alguno abandoné,\nSi tu cariño tierno no mostré;\nNo quiero yo perder tu amor y fe:\nImploro perdón.\n\n4 Perdona lo que he confesado aquí,\ny lo secreto que se hallara en mí,\nMi ayuda y guía sé, confío en ti,\nSeñor, amén.",

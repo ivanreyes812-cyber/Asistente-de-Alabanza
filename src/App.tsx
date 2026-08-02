@@ -164,18 +164,44 @@ export default function App() {
     setSongToAddToSetlist(null);
   };
 
+  // Current tab songs base set
+  const currentTabSongs = useMemo(() => {
+    return allSongs.filter(song => {
+      if (activeTab === 'lluvias') return song.book === 'lluvias';
+      if (activeTab === 'manantial') return song.book === 'manantial';
+      if (activeTab === 'corario') return song.book === 'corario';
+      if (activeTab === 'custom') return song.book === 'custom';
+      if (activeTab === 'favorites') return favorites.includes(song.id);
+      return true; // 'all' tab or search across all
+    });
+  }, [allSongs, activeTab, favorites]);
+
+  // Dynamic category counts for active tab
+  const categoryCounts = useMemo(() => {
+    const counts: Record<string, number> = {};
+    currentTabSongs.forEach(s => {
+      const cat = s.category || 'General';
+      counts[cat] = (counts[cat] || 0) + 1;
+    });
+    return counts;
+  }, [currentTabSongs]);
+
+  // Available unique categories in active tab sorted by count
+  const availableCategories = useMemo(() => {
+    return Object.keys(categoryCounts).sort((a, b) => categoryCounts[b] - categoryCounts[a]);
+  }, [categoryCounts]);
+
   // Filtered Songs calculation
   const displayedSongs = useMemo(() => {
-    return allSongs.filter(song => {
-      // Tab filter
-      if (activeTab === 'lluvias' && song.book !== 'lluvias') return false;
-      if (activeTab === 'manantial' && song.book !== 'manantial') return false;
-      if (activeTab === 'corario' && song.book !== 'corario') return false;
-      if (activeTab === 'custom' && song.book !== 'custom') return false;
-      if (activeTab === 'favorites' && !favorites.includes(song.id)) return false;
-
+    return currentTabSongs.filter(song => {
       // Category filter
-      if (selectedCategory !== 'TODAS' && song.category !== selectedCategory) return false;
+      if (selectedCategory !== 'TODAS') {
+        const sel = selectedCategory.toLowerCase();
+        const songCat = (song.category || '').toLowerCase();
+        if (songCat !== sel && !songCat.includes(sel) && !sel.includes(songCat)) {
+          return false;
+        }
+      }
 
       // Search Query filter
       if (searchQuery.trim()) {
@@ -183,15 +209,15 @@ export default function App() {
         const numberStr = song.number.toString();
         const titleMatch = song.title.toLowerCase().includes(q);
         const numberMatch = numberStr === q || numberStr.includes(q);
-        const categoryMatch = song.category.toLowerCase().includes(q);
-        const lyricsMatch = song.lyrics.toLowerCase().includes(q);
+        const categoryMatch = (song.category || '').toLowerCase().includes(q);
+        const lyricsMatch = song.lyrics ? song.lyrics.toLowerCase().includes(q) : false;
 
         return titleMatch || numberMatch || categoryMatch || lyricsMatch;
       }
 
       return true;
     });
-  }, [allSongs, activeTab, selectedCategory, searchQuery, favorites]);
+  }, [currentTabSongs, selectedCategory, searchQuery]);
 
   // Separate songs for Corario tab
   const corarioOnlySongs = useMemo(() => {
@@ -316,26 +342,53 @@ export default function App() {
           <div className="space-y-6">
             
             {/* Category Filter Pills */}
-            <div className="bg-slate-900 border border-slate-800 rounded-2xl p-3 flex items-center justify-between gap-3 overflow-x-auto scrollbar-none">
-              <span className="text-xs font-bold text-slate-400 uppercase tracking-wider shrink-0 flex items-center gap-1.5">
-                <Filter className="w-3.5 h-3.5 text-amber-400" />
-                <span>Categoría:</span>
-              </span>
+            <div className="bg-slate-900 border border-slate-800 rounded-2xl p-3 space-y-2 sm:space-y-0 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 shadow-lg">
+              <div className="flex items-center gap-2 shrink-0">
+                <Filter className="w-4 h-4 text-amber-400" />
+                <span className="text-xs font-bold text-slate-300 uppercase tracking-wider">
+                  Categorías ({availableCategories.length}):
+                </span>
+              </div>
 
-              <div className="flex items-center gap-1.5 overflow-x-auto scrollbar-none">
-                {['TODAS', 'Adoración', 'Alabanza', 'Consagración', 'Evangelismo', 'Espíritu Santo', 'Doctrina', 'Jóvenes', 'Infantil', 'Navidad'].map((cat) => (
-                  <button
-                    key={cat}
-                    onClick={() => setSelectedCategory(cat)}
-                    className={`px-3 py-1 rounded-xl text-xs font-bold transition shrink-0 ${
-                      selectedCategory === cat
-                        ? 'bg-amber-500 text-slate-950 shadow'
-                        : 'bg-slate-800 text-slate-400 hover:text-white'
-                    }`}
-                  >
-                    {cat}
-                  </button>
-                ))}
+              <div className="flex items-center gap-1.5 overflow-x-auto w-full scrollbar-none pb-1 sm:pb-0">
+                <button
+                  onClick={() => setSelectedCategory('TODAS')}
+                  className={`px-3 py-1.5 rounded-xl text-xs font-bold transition shrink-0 flex items-center gap-1.5 ${
+                    selectedCategory === 'TODAS'
+                      ? 'bg-amber-500 text-slate-950 shadow-md font-extrabold scale-105'
+                      : 'bg-slate-800/90 text-slate-400 hover:text-white hover:bg-slate-700'
+                  }`}
+                >
+                  <span>TODAS</span>
+                  <span className={`text-[10px] px-1.5 py-0.2 rounded-full font-mono ${
+                    selectedCategory === 'TODAS' ? 'bg-slate-950/30 text-slate-950 font-bold' : 'bg-slate-950/80 text-slate-400'
+                  }`}>
+                    {currentTabSongs.length}
+                  </span>
+                </button>
+
+                {availableCategories.map((cat) => {
+                  const count = categoryCounts[cat] || 0;
+                  const isSelected = selectedCategory === cat;
+                  return (
+                    <button
+                      key={cat}
+                      onClick={() => setSelectedCategory(cat)}
+                      className={`px-3 py-1.5 rounded-xl text-xs font-bold transition shrink-0 flex items-center gap-1.5 ${
+                        isSelected
+                          ? 'bg-amber-500 text-slate-950 shadow-md font-extrabold scale-105'
+                          : 'bg-slate-800/90 text-slate-400 hover:text-white hover:bg-slate-700'
+                      }`}
+                    >
+                      <span>{cat}</span>
+                      <span className={`text-[10px] px-1.5 py-0.2 rounded-full font-mono ${
+                        isSelected ? 'bg-slate-950/30 text-slate-950 font-bold' : 'bg-slate-950/80 text-slate-400'
+                      }`}>
+                        {count}
+                      </span>
+                    </button>
+                  );
+                })}
               </div>
             </div>
 
@@ -399,7 +452,7 @@ export default function App() {
       <footer className="bg-slate-950 border-t border-slate-800 py-6 text-center text-xs text-slate-500">
         <div className="max-w-7xl mx-auto px-4">
           <p className="font-serif text-slate-400 font-medium">
-            Aplicación PWA para Directores de Alabanza de la Iglesia Local
+            Aplicación PWA para Directores de Alabanza de la Iglesia Central de Lorica
           </p>
           <p className="mt-1 text-[11px] text-slate-500">
             Himnario Lluvias de Bendición • Himnario Manantial de Inspiración • Corario con Tonalidades

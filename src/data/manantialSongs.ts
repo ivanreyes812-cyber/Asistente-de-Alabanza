@@ -81,7 +81,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 8,
     "title": "Mensaje de Amor",
-    "category": "Evangelismo",
+    "category": "Evangelismo e Invitación",
     "originalKey": "G",
     "bpm": 88,
     "author": "Edgar Devia",
@@ -92,7 +92,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 9,
     "title": "Gracias por Todo Jesús",
-    "category": "Agradecimiento",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "D",
     "bpm": 80,
     "author": "Luz E. Cifuentes",
@@ -103,7 +103,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 10,
     "title": "Caña Cascada",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "Em",
     "bpm": 72,
     "author": "Luz E. Cifuentes",
@@ -125,7 +125,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 12,
     "title": "Canto de Alabanza",
-    "category": "Agradecimiento",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "G",
     "bpm": 88,
     "author": "Luz E. Cifuentes",
@@ -136,7 +136,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 13,
     "title": "Acuérdate de Jesús",
-    "category": "Evangelismo",
+    "category": "Evangelismo e Invitación",
     "originalKey": "E",
     "bpm": 84,
     "author": "Luz E. Cifuentes",
@@ -147,7 +147,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 14,
     "title": "Salmo 121",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "G",
     "bpm": 76,
     "author": "Luz E. Cifuentes",
@@ -158,7 +158,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 15,
     "title": "Jehová Mi Roca",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "G",
     "bpm": 80,
     "author": "Luz E. Cifuentes",
@@ -202,7 +202,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 19,
     "title": "Escapa por Tu Vida",
-    "category": "Evangelismo",
+    "category": "Evangelismo e Invitación",
     "originalKey": "Em",
     "bpm": 88,
     "author": "Zacarías Palacios",
@@ -224,7 +224,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 21,
     "title": "Por Ti Colombia",
-    "category": "Misiones",
+    "category": "Misiones y Servicio",
     "originalKey": "G",
     "bpm": 84,
     "author": "Zacarías Palacios",
@@ -257,7 +257,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 24,
     "title": "Ayúdame Señor",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "G",
     "bpm": 90,
     "author": "Cesia Castro",
@@ -279,7 +279,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 26,
     "title": "Acuérdate de Tu Creador",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "Em",
     "bpm": 76,
     "author": "Cesia Castro",
@@ -290,7 +290,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 27,
     "title": "Mi Amigo Ideal",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "G",
     "bpm": 78,
     "author": "Cesia Castro",
@@ -301,7 +301,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 28,
     "title": "Cristo Te Amo",
-    "category": "Agradecimiento",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "D",
     "bpm": 72,
     "author": "Cesia Castro",
@@ -323,7 +323,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 30,
     "title": "La Más Hermosa",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "C",
     "bpm": 80,
     "author": "Cesia Castro",
@@ -334,7 +334,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 31,
     "title": "Cristo Quiere Salvarte",
-    "category": "Evangelismo",
+    "category": "Evangelismo e Invitación",
     "originalKey": "G",
     "bpm": 80,
     "author": "Cesia Castro",
@@ -345,7 +345,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 32,
     "title": "Si Fueras al Campo",
-    "category": "Misiones",
+    "category": "Misiones y Servicio",
     "originalKey": "D",
     "bpm": 90,
     "author": "Cesia Castro",
@@ -356,7 +356,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 33,
     "title": "Vivo Feliz",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "C",
     "bpm": 100,
     "author": "Jacqueline Porras",
@@ -488,7 +488,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 45,
     "title": "América Cristo Te Ama",
-    "category": "Misiones",
+    "category": "Misiones y Servicio",
     "originalKey": "G",
     "bpm": 100,
     "author": "Gerardo Vásquez",
@@ -543,7 +543,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 50,
     "title": "Cuando Jesús Descienda",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "Em",
     "bpm": 120,
     "author": "Gerardo Vásquez",
@@ -554,7 +554,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 51,
     "title": "Ahora Soy Feliz",
-    "category": "Agradecimiento",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "G",
     "bpm": 110,
     "author": "Gerardo Vásquez",
@@ -565,7 +565,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 52,
     "title": "Canto de Gratitud",
-    "category": "Agradecimiento",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "A",
     "bpm": 115,
     "author": "Gerardo Vásquez",
@@ -576,7 +576,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 53,
     "title": "No Puedo Callar",
-    "category": "Agradecimiento",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "G",
     "bpm": 118,
     "author": "Gerardo Vásquez",
@@ -587,7 +587,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 54,
     "title": "Que Seas Feliz",
-    "category": "Agradecimiento",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "G",
     "bpm": 95,
     "author": "Gerardo Vásquez",
@@ -598,7 +598,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 55,
     "title": "Tú Eres Todo",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "D",
     "bpm": 72,
     "author": "Jairo Silva",
@@ -609,7 +609,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 56,
     "title": "Este Mundo Pasará",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "Am",
     "bpm": 105,
     "author": "Gerardo Vásquez",
@@ -620,7 +620,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 57,
     "title": "Qué Estás Haciendo?",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "Em",
     "bpm": 90,
     "author": "Gerardo Vásquez",
@@ -631,7 +631,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 58,
     "title": "El Señor Vendrá Otra Vez",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "G",
     "bpm": 115,
     "author": "Gerardo Vásquez",
@@ -642,7 +642,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 59,
     "title": "Misionero Que Vas",
-    "category": "Misiones",
+    "category": "Misiones y Servicio",
     "originalKey": "D",
     "bpm": 100,
     "author": "Gerardo Vásquez",
@@ -653,7 +653,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 60,
     "title": "Maestro",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "Em",
     "bpm": 90,
     "author": "Gerardo Vásquez",
@@ -686,7 +686,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 63,
     "title": "Mansión de Luz",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "F",
     "bpm": 90,
     "author": "Gerardo Vásquez",
@@ -708,7 +708,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 65,
     "title": "Tu Mano, Por Favor",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "D",
     "bpm": 76,
     "author": "Gerardo Vásquez",
@@ -719,7 +719,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 66,
     "title": "La Iglesia Se Prepara",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "G",
     "bpm": 110,
     "author": "Gerardo Vásquez",
@@ -730,7 +730,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 67,
     "title": "Redimidos por Jesús",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "D",
     "bpm": 105,
     "author": "Gerardo Vásquez",
@@ -741,7 +741,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 68,
     "title": "Camino a Sión",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "G",
     "bpm": 115,
     "author": "Gerardo Vásquez",
@@ -763,7 +763,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 70,
     "title": "Rendido a Sus Pies",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "D",
     "bpm": 72,
     "author": "Gerardo Vásquez",
@@ -807,7 +807,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 74,
     "title": "A Tu Lado Quiero Estar",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "G",
     "bpm": 72,
     "author": "Gerardo Vásquez",
@@ -829,7 +829,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 76,
     "title": "Cuando Mi Señor Me Tocó",
-    "category": "Testimonio",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "D",
     "bpm": 105,
     "author": "Gerardo Vásquez",
@@ -840,7 +840,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 77,
     "title": "Más Que Vencedores",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "G",
     "bpm": 100,
     "author": "Mario García",
@@ -873,7 +873,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 80,
     "title": "Con Mis Ojos Te Veré",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "D",
     "bpm": 68,
     "author": "Juan Carlos Pérez",
@@ -895,7 +895,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 82,
     "title": "Agradecido Estoy",
-    "category": "Agradecimiento",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "G",
     "bpm": 80,
     "author": "Gilberto Romero",
@@ -906,7 +906,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 83,
     "title": "Jesucristo Va Conmigo",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "G",
     "bpm": 84,
     "author": "Juan Carlos Pérez",
@@ -917,7 +917,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 84,
     "title": "Salvo Soy",
-    "category": "Agradecimiento",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "G",
     "bpm": 90,
     "author": "Juan Carlos Pérez",
@@ -939,7 +939,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 86,
     "title": "Hoy Puedo Cantar",
-    "category": "Agradecimiento",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "D",
     "bpm": 76,
     "author": "Juan Carlos Pérez",
@@ -961,7 +961,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 88,
     "title": "Adórale",
-    "category": "Evangelismo",
+    "category": "Evangelismo e Invitación",
     "originalKey": "Em",
     "bpm": 80,
     "author": "Josué Narváez",
@@ -972,7 +972,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 89,
     "title": "Su Amor Llegó",
-    "category": "Agradecimiento",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "G",
     "bpm": 84,
     "author": "Mario García",
@@ -1016,7 +1016,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 93,
     "title": "Un Pueblo Feliz",
-    "category": "Agradecimiento",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "D",
     "bpm": 115,
     "author": "Gonzalo Blandón",
@@ -1049,7 +1049,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 96,
     "title": "El Buen Samaritano",
-    "category": "Amor Fraternal",
+    "category": "Especiales y Ocasiones",
     "originalKey": "A",
     "bpm": 90,
     "author": "Arnulfo Linero",
@@ -1071,7 +1071,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 98,
     "title": "A Los Pies del Maestro",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "D",
     "bpm": 68,
     "author": "Jeimy Urrego",
@@ -1082,7 +1082,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 99,
     "title": "Gracias a Mi Dios Bendito",
-    "category": "Agradecimiento",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "G",
     "bpm": 80,
     "author": "Arnulfo Linero",
@@ -1093,7 +1093,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 100,
     "title": "Amor; Amor de Dios",
-    "category": "Amor de Dios",
+    "category": "Especiales y Ocasiones",
     "originalKey": "D",
     "bpm": 70,
     "author": "José Antonio Tabares",
@@ -1126,7 +1126,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 103,
     "title": "Joven",
-    "category": "Juventud",
+    "category": "Jóvenes y Juventud",
     "originalKey": "D",
     "bpm": 90,
     "author": "Rafael Vergara T.",
@@ -1148,7 +1148,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 105,
     "title": "No Temáis",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "G",
     "bpm": 105,
     "author": "Marco A. Caicedo y José A. Tabares",
@@ -1170,7 +1170,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 107,
     "title": "Quiero Vivir, Ayúdame",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "C",
     "bpm": 80,
     "author": "Gilberto Romero",
@@ -1181,7 +1181,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 108,
     "title": "Hay Tanto Que Agradecer",
-    "category": "Agradecimiento",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "D",
     "bpm": 88,
     "author": "Rafael Vergara T.",
@@ -1192,7 +1192,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 109,
     "title": "Te Necesito",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "C",
     "bpm": 72,
     "author": "Aquerles Ascanio",
@@ -1203,7 +1203,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 110,
     "title": "Ten Piedad de Mí",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "Am",
     "bpm": 70,
     "author": "José Manuel Castro",
@@ -1225,7 +1225,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 112,
     "title": "Seguir Luchando",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "D",
     "bpm": 80,
     "author": "Claudia Villadiego",
@@ -1236,7 +1236,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 113,
     "title": "Ven a Él",
-    "category": "Evangelismo",
+    "category": "Evangelismo e Invitación",
     "originalKey": "G",
     "bpm": 76,
     "author": "Claudia Villadiego",
@@ -1247,7 +1247,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 114,
     "title": "Ven a Dios",
-    "category": "Evangelismo",
+    "category": "Evangelismo e Invitación",
     "originalKey": "G",
     "bpm": 80,
     "author": "Marco Antonio Soto",
@@ -1258,7 +1258,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 115,
     "title": "Toma Mi Corazón",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "D",
     "bpm": 70,
     "author": "Marco Antonio Soto",
@@ -1269,7 +1269,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 116,
     "title": "Úsame",
-    "category": "Misiones",
+    "category": "Misiones y Servicio",
     "originalKey": "G",
     "bpm": 80,
     "author": "Antonio Tabares",
@@ -1302,7 +1302,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 119,
     "title": "Por Tu Misericordia",
-    "category": "Agradecimiento",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "D",
     "bpm": 80,
     "author": "Román Sierra",
@@ -1313,7 +1313,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 120,
     "title": "Da la Luz al Pecador",
-    "category": "Misiones",
+    "category": "Misiones y Servicio",
     "originalKey": "G",
     "bpm": 100,
     "author": "Antonio Tabares",
@@ -1324,7 +1324,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 121,
     "title": "Tu Gracia Señor",
-    "category": "Agradecimiento",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "D",
     "bpm": 80,
     "author": "Antonio Tabares",
@@ -1368,7 +1368,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 125,
     "title": "Caminar Con Jesús",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "C",
     "bpm": 85,
     "author": "Cesia Castro",
@@ -1434,7 +1434,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 131,
     "title": "Un Palacio Tengo",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "G",
     "bpm": 105,
     "author": "Gerardo Vásquez",
@@ -1456,7 +1456,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 133,
     "title": "Años Míos",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "Em",
     "bpm": 70,
     "author": "Luz E. Cifuentes",
@@ -1478,7 +1478,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 135,
     "title": "Agradezco Tu Amor",
-    "category": "Agradecimiento",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "D",
     "bpm": 80,
     "author": "Guillermo Cabezas",
@@ -1500,7 +1500,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 137,
     "title": "Yo Anhelo Ir al Cielo",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "D",
     "bpm": 100,
     "author": "Gilberto Romero",
@@ -1511,7 +1511,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 138,
     "title": "La Venida del Rey",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "G",
     "bpm": 115,
     "author": "Gerardo Vásquez",
@@ -1522,7 +1522,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 139,
     "title": "Cristo Me Ama",
-    "category": "Amor de Dios",
+    "category": "Especiales y Ocasiones",
     "originalKey": "C",
     "bpm": 85,
     "author": "Juan Carlos Pérez",
@@ -1544,7 +1544,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 141,
     "title": "Cristo Mi Refugio",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "G",
     "bpm": 76,
     "author": "Marco A. Caicedo",
@@ -1577,7 +1577,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 144,
     "title": "Soy Redimido",
-    "category": "Agradecimiento",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "C",
     "bpm": 90,
     "author": "Gerardo Vásquez",
@@ -1599,7 +1599,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 146,
     "title": "Jehová Es Mi Pastor",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "G",
     "bpm": 80,
     "author": "Luz E. Cifuentes",
@@ -1654,7 +1654,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 151,
     "title": "Maravillosa Gracia",
-    "category": "Agradecimiento",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "G",
     "bpm": 85,
     "author": "Juan Carlos Pérez",
@@ -1665,7 +1665,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 152,
     "title": "Oh Qué Amigo",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "D",
     "bpm": 80,
     "author": "Cesia Castro",
@@ -1676,7 +1676,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 153,
     "title": "Cristo Es la Respuesta",
-    "category": "Evangelismo",
+    "category": "Evangelismo e Invitación",
     "originalKey": "G",
     "bpm": 90,
     "author": "Arnulfo Linero",
@@ -1720,7 +1720,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 157,
     "title": "Firmes Estaremos",
-    "category": "Consolación",
+    "category": "Consolación y Ánimo",
     "originalKey": "G",
     "bpm": 100,
     "author": "Jairo Silva",
@@ -1753,7 +1753,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 160,
     "title": "En Cristo Hallé Salud",
-    "category": "Testimonio",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "C",
     "bpm": 95,
     "author": "Juan Carlos Pérez",
@@ -1764,7 +1764,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 161,
     "title": "QUE HERMOSO",
-    "category": "Expresión de Adoración",
+    "category": "Adoración",
     "originalKey": "G",
     "bpm": 70,
     "author": "Jairo Silva",
@@ -1775,7 +1775,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 162,
     "title": "HABLAME AL OIDO",
-    "category": "Búsqueda de Dios",
+    "category": "Adoración",
     "originalKey": "C",
     "bpm": 75,
     "author": "Fernando Díaz",
@@ -1797,7 +1797,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 164,
     "title": "ME IRE A GOZAR",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "G",
     "bpm": 85,
     "author": "Harvey Bermúdez",
@@ -1808,7 +1808,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 165,
     "title": "QUE LINDO ES SENTIR",
-    "category": "Expresión de Adoración",
+    "category": "Adoración",
     "originalKey": "D",
     "bpm": 72,
     "author": "Harvey Bermúdez",
@@ -1819,7 +1819,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 166,
     "title": "ÚSAME OH DIOS",
-    "category": "Misiones y Servicio a Dios",
+    "category": "Misiones y Servicio",
     "originalKey": "C",
     "bpm": 80,
     "author": "José Manuel Castro",
@@ -1830,7 +1830,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 167,
     "title": "EL DIA DE LA GRACIA",
-    "category": "Exhortación",
+    "category": "Doctrina",
     "originalKey": "G",
     "bpm": 75,
     "author": "Alvaro García",
@@ -1841,7 +1841,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 168,
     "title": "MANSIÓN DE GLORIA",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "G",
     "bpm": 80,
     "author": "Arbey Bustamante",
@@ -1863,7 +1863,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 170,
     "title": "NACION SANTA",
-    "category": "Decisión y Compromiso",
+    "category": "Consagración",
     "originalKey": "C",
     "bpm": 85,
     "author": "Gabriel Castillo",
@@ -1885,7 +1885,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 172,
     "title": "CRISTO ES EL LIRIO",
-    "category": "Atributos de Dios",
+    "category": "Adoración",
     "originalKey": "G",
     "bpm": 85,
     "author": "Arbey Bustamante",
@@ -1907,7 +1907,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 174,
     "title": "ES EL AMOR",
-    "category": "Amor Fraternal",
+    "category": "Especiales y Ocasiones",
     "originalKey": "G",
     "bpm": 80,
     "author": "Alvaro García",
@@ -1918,7 +1918,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 175,
     "title": "SEGUIRE ADELANTE",
-    "category": "Animo",
+    "category": "Consolación y Ánimo",
     "originalKey": "D",
     "bpm": 85,
     "author": "Edgar Devia",
@@ -1929,7 +1929,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 176,
     "title": "VIDA Y ESPERANZA",
-    "category": "Testimonio",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "G",
     "bpm": 80,
     "author": "Ciro Calderón",
@@ -1940,7 +1940,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 177,
     "title": "VAMOS YA",
-    "category": "Animo",
+    "category": "Consolación y Ánimo",
     "originalKey": "D",
     "bpm": 110,
     "author": "Harvey Bermúdez",
@@ -1951,7 +1951,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 178,
     "title": "COMPLETO ESTOY",
-    "category": "Testimonio",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "C",
     "bpm": 75,
     "author": "Ciro Calderón",
@@ -1962,7 +1962,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 179,
     "title": "RESTAURANOS",
-    "category": "Oración y Súplica",
+    "category": "Oración y Comunión",
     "originalKey": "D",
     "bpm": 70,
     "author": "Mirladys Messino",
@@ -1973,7 +1973,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 180,
     "title": "TODO ES VANIDAD",
-    "category": "Juventud",
+    "category": "Jóvenes y Juventud",
     "originalKey": "Em",
     "bpm": 85,
     "author": "Claudia y Gerson Villadiego",
@@ -1984,7 +1984,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 181,
     "title": "ANUNCIAR EL EVANGELIO",
-    "category": "Misiones y Servicio a Dios",
+    "category": "Misiones y Servicio",
     "originalKey": "G",
     "bpm": 90,
     "author": "Claudia P. Villadiego",
@@ -1995,7 +1995,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 182,
     "title": "LA GRACIA DE JESÚS",
-    "category": "Reconocimiento",
+    "category": "Adoración",
     "originalKey": "D",
     "bpm": 75,
     "author": "Román Sierra",
@@ -2006,7 +2006,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 183,
     "title": "QUIERO ADORAR A DIOS",
-    "category": "Expresión de Adoración",
+    "category": "Adoración",
     "originalKey": "C",
     "bpm": 70,
     "author": "Román Sierra",
@@ -2017,7 +2017,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 184,
     "title": "AMIGO COMO EL",
-    "category": "Reconciliación",
+    "category": "Gracia y Salvación",
     "originalKey": "G",
     "bpm": 75,
     "author": "Josué Narváez",
@@ -2028,7 +2028,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 185,
     "title": "MI RAZÓN DE VIVIR",
-    "category": "Reconocimiento",
+    "category": "Adoración",
     "originalKey": "D",
     "bpm": 75,
     "author": "Martín E. Marriaga",
@@ -2039,7 +2039,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 186,
     "title": "DONDE ME ENVÍES YO IRÉ",
-    "category": "Misiones y Servicio a Dios",
+    "category": "Misiones y Servicio",
     "originalKey": "G",
     "bpm": 95,
     "author": "José Manuel Torreglosa",
@@ -2050,7 +2050,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 187,
     "title": "TU MISERICORDIA",
-    "category": "Reconocimiento",
+    "category": "Adoración",
     "originalKey": "D",
     "bpm": 70,
     "author": "Marina Ortíz",
@@ -2061,7 +2061,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 188,
     "title": "UN CORAZÓN ARREPENTIDO",
-    "category": "Reconciliación",
+    "category": "Gracia y Salvación",
     "originalKey": "C",
     "bpm": 70,
     "author": "Marina Ortíz",
@@ -2072,7 +2072,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 189,
     "title": "TUS MORADAS",
-    "category": "Búsqueda de Dios",
+    "category": "Adoración",
     "originalKey": "G",
     "bpm": 80,
     "author": "Gilberto Romero Quiroz",
@@ -2094,7 +2094,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 191,
     "title": "SOLO HABÍA OSCURIDAD",
-    "category": "Regocijo",
+    "category": "Alabanza",
     "originalKey": "Em",
     "bpm": 100,
     "author": "Irina Alvarado",
@@ -2105,7 +2105,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 192,
     "title": "OFRENDA ESPECIAL",
-    "category": "Expresión de Adoración",
+    "category": "Adoración",
     "originalKey": "D",
     "bpm": 72,
     "author": "Cesia Castro",
@@ -2116,7 +2116,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 193,
     "title": "LA GLORIA DE DIOS",
-    "category": "Nuestra Esperanza",
+    "category": "La Venida del Señor",
     "originalKey": "G",
     "bpm": 85,
     "author": "Cesia Castro",
@@ -2171,7 +2171,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 198,
     "title": "CLAMOR POR COLOMBIA",
-    "category": "Oración y Súplica",
+    "category": "Oración y Comunión",
     "originalKey": "Em",
     "bpm": 70,
     "author": "Ciro Calderón",
@@ -2182,7 +2182,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 199,
     "title": "VIDA Y LIBERTAD",
-    "category": "Testimonio",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "G",
     "bpm": 90,
     "author": "Edgar Devia",
@@ -2204,7 +2204,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 201,
     "title": "LA PAZ RENACERA",
-    "category": "Protección Divina",
+    "category": "Confianza en Dios",
     "originalKey": "Am",
     "bpm": 75,
     "author": "Edgar Devia",
@@ -2270,7 +2270,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 207,
     "title": "EL GRAN REY",
-    "category": "Atributos de Dios",
+    "category": "Adoración",
     "originalKey": "D",
     "bpm": 90,
     "author": "Ciro Calderón",
@@ -2292,7 +2292,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 209,
     "title": "LA GRAN HERENCIA",
-    "category": "Exhortación",
+    "category": "Doctrina",
     "originalKey": "D",
     "bpm": 80,
     "author": "Lucero Jaramillo",
@@ -2303,7 +2303,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 210,
     "title": "AQUÍ ESTA JESUS",
-    "category": "Amor Fraternal",
+    "category": "Especiales y Ocasiones",
     "originalKey": "C",
     "bpm": 80,
     "author": "Juan Carlos Pérez",
@@ -2314,7 +2314,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 211,
     "title": "HAY UNA VOZ LLAMANDO",
-    "category": "Juventud",
+    "category": "Jóvenes y Juventud",
     "originalKey": "G",
     "bpm": 90,
     "author": "Gabriel Castillo",
@@ -2325,7 +2325,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 212,
     "title": "JESÚS, MI FAMILIA ES PARA TI",
-    "category": "La Familia",
+    "category": "Especiales y Ocasiones",
     "originalKey": "D",
     "bpm": 75,
     "author": "Gabriel Castillo",
@@ -2347,7 +2347,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 214,
     "title": "TODO ES DISTINTO",
-    "category": "Exhortación",
+    "category": "Doctrina",
     "originalKey": "Em",
     "bpm": 80,
     "author": "Zacarías Palacios",
@@ -2358,7 +2358,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 215,
     "title": "SIEMPRE FELIZ",
-    "category": "Agradecimiento",
+    "category": "Agradecimiento y Testimonio",
     "originalKey": "G",
     "bpm": 75,
     "author": "Edgar Devia",
@@ -2369,7 +2369,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 216,
     "title": "POR TI SOY FELIZ",
-    "category": "Dependencia de Dios",
+    "category": "Confianza en Dios",
     "originalKey": "D",
     "bpm": 70,
     "author": "Edgar Devia",
@@ -2391,7 +2391,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 218,
     "title": "JESUCRISTO, UNICO DIOS",
-    "category": "Atributos de Dios",
+    "category": "Adoración",
     "originalKey": "Em",
     "bpm": 80,
     "author": "Zacarías Palacios",
@@ -2435,7 +2435,7 @@ export const manantialSongs: Song[] = [
   {
     "number": 222,
     "title": "POR QUE ME AMAS",
-    "category": "Amor de Dios",
+    "category": "Especiales y Ocasiones",
     "originalKey": "D",
     "bpm": 70,
     "author": "Cesia Castro",
