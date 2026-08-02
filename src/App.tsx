@@ -450,12 +450,15 @@ export default function App() {
 
       {/* Footer */}
       <footer className="bg-slate-950 border-t border-slate-800 py-6 text-center text-xs text-slate-500">
-        <div className="max-w-7xl mx-auto px-4">
+        <div className="max-w-7xl mx-auto px-4 space-y-1">
           <p className="font-serif text-slate-400 font-medium">
             Aplicación PWA para Directores de Alabanza de la Iglesia Central de Lorica
           </p>
-          <p className="mt-1 text-[11px] text-slate-500">
+          <p className="text-[11px] text-slate-500">
             Himnario Lluvias de Bendición • Himnario Manantial de Inspiración • Corario con Tonalidades
+          </p>
+          <p className="text-[11px] text-amber-400/90 font-medium tracking-wide italic">
+            Un cammino, un sogno, Dio e noi G&I
           </p>
         </div>
       </footer>
